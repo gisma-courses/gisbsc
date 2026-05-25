@@ -1,0 +1,3859 @@
+.
+├── core
+│   ├── manual
+│   │   ├── config_Reference
+│   │   │   ├── config_Reference.html
+│   │   │   ├── config_Reference_p10.png
+│   │   │   ├── config_Reference_p11.png
+│   │   │   ├── config_Reference_p12.png
+│   │   │   ├── config_Reference_p13.png
+│   │   │   ├── config_Reference_p14.png
+│   │   │   ├── config_Reference_p15.png
+│   │   │   ├── config_Reference_p16.png
+│   │   │   ├── config_Reference_p17.png
+│   │   │   ├── config_Reference_p18.png
+│   │   │   ├── config_Reference_p19.png
+│   │   │   ├── config_Reference_p1.png
+│   │   │   ├── config_Reference_p20.png
+│   │   │   ├── config_Reference_p21.png
+│   │   │   ├── config_Reference_p22.png
+│   │   │   ├── config_Reference_p23.png
+│   │   │   ├── config_Reference_p24.png
+│   │   │   ├── config_Reference_p25.png
+│   │   │   ├── config_Reference_p26.png
+│   │   │   ├── config_Reference_p27.png
+│   │   │   ├── config_Reference_p28.png
+│   │   │   ├── config_Reference_p29.png
+│   │   │   ├── config_Reference_p2.png
+│   │   │   ├── config_Reference_p30.png
+│   │   │   ├── config_Reference_p31.png
+│   │   │   ├── config_Reference_p32.png
+│   │   │   ├── config_Reference_p33.png
+│   │   │   ├── config_Reference_p34.png
+│   │   │   ├── config_Reference_p35.png
+│   │   │   ├── config_Reference_p3.png
+│   │   │   ├── config_Reference_p4.png
+│   │   │   ├── config_Reference_p5.png
+│   │   │   ├── config_Reference_p6.png
+│   │   │   ├── config_Reference_p7.png
+│   │   │   ├── config_Reference_p8.png
+│   │   │   └── config_Reference_p9.png
+│   │   ├── eLML_Reference
+│   │   │   ├── eLML_Reference_BibIDRefImp.html
+│   │   │   ├── eLML_Reference_BibIDRefReq.html
+│   │   │   ├── eLML_Reference_BibPageNr.html
+│   │   │   ├── eLML_Reference_CopyrightType.html
+│   │   │   ├── eLML_Reference_CSSClassImp.html
+│   │   │   ├── eLML_Reference_DepartementReq.html
+│   │   │   ├── eLML_Reference.html
+│   │   │   ├── eLML_Reference_IconImp.html
+│   │   │   ├── eLML_Reference_InstituteReq.html
+│   │   │   ├── eLML_Reference_LanguageType.html
+│   │   │   ├── eLML_Reference_LessonLabelReq.html
+│   │   │   ├── eLML_Reference_OrganisationReq.html
+│   │   │   ├── eLML_Reference_p100.png
+│   │   │   ├── eLML_Reference_p101.png
+│   │   │   ├── eLML_Reference_p102.png
+│   │   │   ├── eLML_Reference_p103.png
+│   │   │   ├── eLML_Reference_p104.png
+│   │   │   ├── eLML_Reference_p105.png
+│   │   │   ├── eLML_Reference_p106.png
+│   │   │   ├── eLML_Reference_p10.png
+│   │   │   ├── eLML_Reference_p11.png
+│   │   │   ├── eLML_Reference_p12.png
+│   │   │   ├── eLML_Reference_p13.png
+│   │   │   ├── eLML_Reference_p14.png
+│   │   │   ├── eLML_Reference_p15.png
+│   │   │   ├── eLML_Reference_p16.png
+│   │   │   ├── eLML_Reference_p17.png
+│   │   │   ├── eLML_Reference_p18.png
+│   │   │   ├── eLML_Reference_p19.png
+│   │   │   ├── eLML_Reference_p1.png
+│   │   │   ├── eLML_Reference_p20.png
+│   │   │   ├── eLML_Reference_p21.png
+│   │   │   ├── eLML_Reference_p22.png
+│   │   │   ├── eLML_Reference_p23.png
+│   │   │   ├── eLML_Reference_p24.png
+│   │   │   ├── eLML_Reference_p25.png
+│   │   │   ├── eLML_Reference_p26.png
+│   │   │   ├── eLML_Reference_p27.png
+│   │   │   ├── eLML_Reference_p28.png
+│   │   │   ├── eLML_Reference_p29.png
+│   │   │   ├── eLML_Reference_p2.png
+│   │   │   ├── eLML_Reference_p30.png
+│   │   │   ├── eLML_Reference_p31.png
+│   │   │   ├── eLML_Reference_p32.png
+│   │   │   ├── eLML_Reference_p33.png
+│   │   │   ├── eLML_Reference_p34.png
+│   │   │   ├── eLML_Reference_p35.png
+│   │   │   ├── eLML_Reference_p36.png
+│   │   │   ├── eLML_Reference_p37.png
+│   │   │   ├── eLML_Reference_p38.png
+│   │   │   ├── eLML_Reference_p39.png
+│   │   │   ├── eLML_Reference_p3.png
+│   │   │   ├── eLML_Reference_p40.png
+│   │   │   ├── eLML_Reference_p41.png
+│   │   │   ├── eLML_Reference_p42.png
+│   │   │   ├── eLML_Reference_p43.png
+│   │   │   ├── eLML_Reference_p44.png
+│   │   │   ├── eLML_Reference_p45.png
+│   │   │   ├── eLML_Reference_p46.png
+│   │   │   ├── eLML_Reference_p47.png
+│   │   │   ├── eLML_Reference_p48.png
+│   │   │   ├── eLML_Reference_p49.png
+│   │   │   ├── eLML_Reference_p4.png
+│   │   │   ├── eLML_Reference_p50.png
+│   │   │   ├── eLML_Reference_p51.png
+│   │   │   ├── eLML_Reference_p52.png
+│   │   │   ├── eLML_Reference_p53.png
+│   │   │   ├── eLML_Reference_p54.png
+│   │   │   ├── eLML_Reference_p55.png
+│   │   │   ├── eLML_Reference_p56.png
+│   │   │   ├── eLML_Reference_p57.png
+│   │   │   ├── eLML_Reference_p58.png
+│   │   │   ├── eLML_Reference_p59.png
+│   │   │   ├── eLML_Reference_p5.png
+│   │   │   ├── eLML_Reference_p60.png
+│   │   │   ├── eLML_Reference_p61.png
+│   │   │   ├── eLML_Reference_p62.png
+│   │   │   ├── eLML_Reference_p63.png
+│   │   │   ├── eLML_Reference_p64.png
+│   │   │   ├── eLML_Reference_p65.png
+│   │   │   ├── eLML_Reference_p66.png
+│   │   │   ├── eLML_Reference_p67.png
+│   │   │   ├── eLML_Reference_p68.png
+│   │   │   ├── eLML_Reference_p69.png
+│   │   │   ├── eLML_Reference_p6.png
+│   │   │   ├── eLML_Reference_p70.png
+│   │   │   ├── eLML_Reference_p71.png
+│   │   │   ├── eLML_Reference_p72.png
+│   │   │   ├── eLML_Reference_p73.png
+│   │   │   ├── eLML_Reference_p74.png
+│   │   │   ├── eLML_Reference_p75.png
+│   │   │   ├── eLML_Reference_p76.png
+│   │   │   ├── eLML_Reference_p77.png
+│   │   │   ├── eLML_Reference_p78.png
+│   │   │   ├── eLML_Reference_p79.png
+│   │   │   ├── eLML_Reference_p7.png
+│   │   │   ├── eLML_Reference_p80.png
+│   │   │   ├── eLML_Reference_p81.png
+│   │   │   ├── eLML_Reference_p82.png
+│   │   │   ├── eLML_Reference_p83.png
+│   │   │   ├── eLML_Reference_p84.png
+│   │   │   ├── eLML_Reference_p85.png
+│   │   │   ├── eLML_Reference_p86.png
+│   │   │   ├── eLML_Reference_p87.png
+│   │   │   ├── eLML_Reference_p88.png
+│   │   │   ├── eLML_Reference_p89.png
+│   │   │   ├── eLML_Reference_p8.png
+│   │   │   ├── eLML_Reference_p90.png
+│   │   │   ├── eLML_Reference_p91.png
+│   │   │   ├── eLML_Reference_p92.png
+│   │   │   ├── eLML_Reference_p93.png
+│   │   │   ├── eLML_Reference_p94.png
+│   │   │   ├── eLML_Reference_p95.png
+│   │   │   ├── eLML_Reference_p96.png
+│   │   │   ├── eLML_Reference_p97.png
+│   │   │   ├── eLML_Reference_p98.png
+│   │   │   ├── eLML_Reference_p99.png
+│   │   │   ├── eLML_Reference_p9.png
+│   │   │   ├── eLML_Reference_Part100.html
+│   │   │   ├── eLML_Reference_Part101.html
+│   │   │   ├── eLML_Reference_Part102.html
+│   │   │   ├── eLML_Reference_Part103.html
+│   │   │   ├── eLML_Reference_Part104.html
+│   │   │   ├── eLML_Reference_Part105.html
+│   │   │   ├── eLML_Reference_Part106.html
+│   │   │   ├── eLML_Reference_Part107.html
+│   │   │   ├── eLML_Reference_Part108.html
+│   │   │   ├── eLML_Reference_Part109.html
+│   │   │   ├── eLML_Reference_Part10.html
+│   │   │   ├── eLML_Reference_Part110.html
+│   │   │   ├── eLML_Reference_Part111.html
+│   │   │   ├── eLML_Reference_Part112.html
+│   │   │   ├── eLML_Reference_Part113.html
+│   │   │   ├── eLML_Reference_Part114.html
+│   │   │   ├── eLML_Reference_Part115.html
+│   │   │   ├── eLML_Reference_Part116.html
+│   │   │   ├── eLML_Reference_Part117.html
+│   │   │   ├── eLML_Reference_Part118.html
+│   │   │   ├── eLML_Reference_Part119.html
+│   │   │   ├── eLML_Reference_Part11.html
+│   │   │   ├── eLML_Reference_Part120.html
+│   │   │   ├── eLML_Reference_Part121.html
+│   │   │   ├── eLML_Reference_Part122.html
+│   │   │   ├── eLML_Reference_Part123.html
+│   │   │   ├── eLML_Reference_Part124.html
+│   │   │   ├── eLML_Reference_Part125.html
+│   │   │   ├── eLML_Reference_Part126.html
+│   │   │   ├── eLML_Reference_Part127.html
+│   │   │   ├── eLML_Reference_Part128.html
+│   │   │   ├── eLML_Reference_Part129.html
+│   │   │   ├── eLML_Reference_Part12.html
+│   │   │   ├── eLML_Reference_Part130.html
+│   │   │   ├── eLML_Reference_Part131.html
+│   │   │   ├── eLML_Reference_Part132.html
+│   │   │   ├── eLML_Reference_Part133.html
+│   │   │   ├── eLML_Reference_Part134.html
+│   │   │   ├── eLML_Reference_Part135.html
+│   │   │   ├── eLML_Reference_Part136.html
+│   │   │   ├── eLML_Reference_Part137.html
+│   │   │   ├── eLML_Reference_Part138.html
+│   │   │   ├── eLML_Reference_Part139.html
+│   │   │   ├── eLML_Reference_Part13.html
+│   │   │   ├── eLML_Reference_Part140.html
+│   │   │   ├── eLML_Reference_Part141.html
+│   │   │   ├── eLML_Reference_Part14.html
+│   │   │   ├── eLML_Reference_Part15.html
+│   │   │   ├── eLML_Reference_Part16.html
+│   │   │   ├── eLML_Reference_Part17.html
+│   │   │   ├── eLML_Reference_Part18.html
+│   │   │   ├── eLML_Reference_Part19.html
+│   │   │   ├── eLML_Reference_Part1.html
+│   │   │   ├── eLML_Reference_Part20.html
+│   │   │   ├── eLML_Reference_Part21.html
+│   │   │   ├── eLML_Reference_Part22.html
+│   │   │   ├── eLML_Reference_Part23.html
+│   │   │   ├── eLML_Reference_Part24.html
+│   │   │   ├── eLML_Reference_Part25.html
+│   │   │   ├── eLML_Reference_Part26.html
+│   │   │   ├── eLML_Reference_Part27.html
+│   │   │   ├── eLML_Reference_Part28.html
+│   │   │   ├── eLML_Reference_Part29.html
+│   │   │   ├── eLML_Reference_Part2.html
+│   │   │   ├── eLML_Reference_Part30.html
+│   │   │   ├── eLML_Reference_Part31.html
+│   │   │   ├── eLML_Reference_Part32.html
+│   │   │   ├── eLML_Reference_Part33.html
+│   │   │   ├── eLML_Reference_Part34.html
+│   │   │   ├── eLML_Reference_Part35.html
+│   │   │   ├── eLML_Reference_Part36.html
+│   │   │   ├── eLML_Reference_Part37.html
+│   │   │   ├── eLML_Reference_Part38.html
+│   │   │   ├── eLML_Reference_Part39.html
+│   │   │   ├── eLML_Reference_Part3.html
+│   │   │   ├── eLML_Reference_Part40.html
+│   │   │   ├── eLML_Reference_Part41.html
+│   │   │   ├── eLML_Reference_Part42.html
+│   │   │   ├── eLML_Reference_Part43.html
+│   │   │   ├── eLML_Reference_Part44.html
+│   │   │   ├── eLML_Reference_Part45.html
+│   │   │   ├── eLML_Reference_Part46.html
+│   │   │   ├── eLML_Reference_Part47.html
+│   │   │   ├── eLML_Reference_Part48.html
+│   │   │   ├── eLML_Reference_Part49.html
+│   │   │   ├── eLML_Reference_Part4.html
+│   │   │   ├── eLML_Reference_Part50.html
+│   │   │   ├── eLML_Reference_Part51.html
+│   │   │   ├── eLML_Reference_Part52.html
+│   │   │   ├── eLML_Reference_Part53.html
+│   │   │   ├── eLML_Reference_Part54.html
+│   │   │   ├── eLML_Reference_Part55.html
+│   │   │   ├── eLML_Reference_Part56.html
+│   │   │   ├── eLML_Reference_Part57.html
+│   │   │   ├── eLML_Reference_Part58.html
+│   │   │   ├── eLML_Reference_Part59.html
+│   │   │   ├── eLML_Reference_Part5.html
+│   │   │   ├── eLML_Reference_Part60.html
+│   │   │   ├── eLML_Reference_Part61.html
+│   │   │   ├── eLML_Reference_Part62.html
+│   │   │   ├── eLML_Reference_Part63.html
+│   │   │   ├── eLML_Reference_Part64.html
+│   │   │   ├── eLML_Reference_Part65.html
+│   │   │   ├── eLML_Reference_Part66.html
+│   │   │   ├── eLML_Reference_Part67.html
+│   │   │   ├── eLML_Reference_Part68.html
+│   │   │   ├── eLML_Reference_Part69.html
+│   │   │   ├── eLML_Reference_Part6.html
+│   │   │   ├── eLML_Reference_Part70.html
+│   │   │   ├── eLML_Reference_Part71.html
+│   │   │   ├── eLML_Reference_Part72.html
+│   │   │   ├── eLML_Reference_Part73.html
+│   │   │   ├── eLML_Reference_Part74.html
+│   │   │   ├── eLML_Reference_Part75.html
+│   │   │   ├── eLML_Reference_Part76.html
+│   │   │   ├── eLML_Reference_Part77.html
+│   │   │   ├── eLML_Reference_Part78.html
+│   │   │   ├── eLML_Reference_Part79.html
+│   │   │   ├── eLML_Reference_Part7.html
+│   │   │   ├── eLML_Reference_Part80.html
+│   │   │   ├── eLML_Reference_Part81.html
+│   │   │   ├── eLML_Reference_Part82.html
+│   │   │   ├── eLML_Reference_Part83.html
+│   │   │   ├── eLML_Reference_Part84.html
+│   │   │   ├── eLML_Reference_Part85.html
+│   │   │   ├── eLML_Reference_Part86.html
+│   │   │   ├── eLML_Reference_Part87.html
+│   │   │   ├── eLML_Reference_Part88.html
+│   │   │   ├── eLML_Reference_Part89.html
+│   │   │   ├── eLML_Reference_Part8.html
+│   │   │   ├── eLML_Reference_Part90.html
+│   │   │   ├── eLML_Reference_Part91.html
+│   │   │   ├── eLML_Reference_Part92.html
+│   │   │   ├── eLML_Reference_Part93.html
+│   │   │   ├── eLML_Reference_Part94.html
+│   │   │   ├── eLML_Reference_Part95.html
+│   │   │   ├── eLML_Reference_Part96.html
+│   │   │   ├── eLML_Reference_Part97.html
+│   │   │   ├── eLML_Reference_Part98.html
+│   │   │   ├── eLML_Reference_Part99.html
+│   │   │   ├── eLML_Reference_Part9.html
+│   │   │   ├── eLML_Reference_Part.html
+│   │   │   ├── eLML_Reference_PredefinedLabelsType.html
+│   │   │   ├── eLML_Reference_RoleImp.html
+│   │   │   ├── eLML_Reference_SortingImp.html
+│   │   │   ├── eLML_Reference_VisibleImp.html
+│   │   │   ├── eLML_Reference_YesNoType.html
+│   │   │   └── tmp0000.html
+│   │   └── index.html
+│   ├── presentation
+│   │   ├── 2ndgis
+│   │   │   ├── elml.css
+│   │   │   ├── images
+│   │   │   └── online.xsl
+│   │   ├── 3rd
+│   │   │   ├── elml.css
+│   │   │   ├── images
+│   │   │   └── online.xsl
+│   │   ├── default_parameters.xml
+│   │   ├── docbook
+│   │   │   ├── biblio_harvard.xsl
+│   │   │   ├── elml.xsl
+│   │   │   └── metadata_elml.xsl
+│   │   ├── docbook (1)
+│   │   ├── epub
+│   │   │   └── elml.xsl
+│   │   ├── latex
+│   │   │   ├── biblio.xsl
+│   │   │   ├── elml.xsl
+│   │   │   └── metadata_elml.xsl
+│   │   ├── latex (2)
+│   │   ├── __MACOSX
+│   │   │   └── presentation
+│   │   │       └── print
+│   │   ├── odf
+│   │   │   ├── biblio_harvard.xsl
+│   │   │   ├── elml.xsl
+│   │   │   ├── generic.xsl
+│   │   │   └── metadata_elml.xsl
+│   │   ├── odf (3)
+│   │   ├── online
+│   │   │   ├── biblio_apa.xsl
+│   │   │   ├── biblio_harvard.xsl
+│   │   │   ├── common.xsl
+│   │   │   ├── elml.css
+│   │   │   ├── elml.xsl
+│   │   │   ├── elml.xsl.bak
+│   │   │   ├── metadata_elml.xsl
+│   │   │   ├── online.xsl
+│   │   │   ├── oxy3338616393903566652.xsl
+│   │   │   └── scripts_styles.xsl
+│   │   ├── online (4)
+│   │   ├── params.xsl
+│   │   ├── presentation
+│   │   ├── print
+│   │   │   ├── biblio_apa.xsl
+│   │   │   ├── biblio_harvard.xsl
+│   │   │   ├── elml.xsl
+│   │   │   ├── elml.xsl.bak
+│   │   │   └── metadata_elml.xsl
+│   │   ├── print (5)
+│   │   ├── salzburg
+│   │   │   ├── biblio_apa.xsl
+│   │   │   ├── biblio_harvard.xsl
+│   │   │   ├── common.xsl
+│   │   │   ├── elml.css
+│   │   │   ├── elml.js
+│   │   │   ├── elml_print.css
+│   │   │   ├── elml.xsl
+│   │   │   ├── file_icons
+│   │   │   │   ├── doc.gif
+│   │   │   │   ├── html.gif
+│   │   │   │   ├── misc.gif
+│   │   │   │   ├── pdf.gif
+│   │   │   │   ├── ppt.gif
+│   │   │   │   ├── txt.gif
+│   │   │   │   ├── xls.gif
+│   │   │   │   ├── xml.gif
+│   │   │   │   └── zip.gif
+│   │   │   ├── form.xml
+│   │   │   ├── icons
+│   │   │   │   ├── act.gif
+│   │   │   │   ├── creativecommons.png
+│   │   │   │   ├── glossary.gif
+│   │   │   │   ├── help.gif
+│   │   │   │   ├── important.gif
+│   │   │   │   ├── look.gif
+│   │   │   │   ├── PDF.gif
+│   │   │   │   ├── question.gif
+│   │   │   │   ├── remark.gif
+│   │   │   │   ├── sitemap.gif
+│   │   │   │   └── term.gif
+│   │   │   ├── images
+│   │   │   │   ├── 04logo_sm.gif
+│   │   │   │   ├── arrowup.gif
+│   │   │   │   ├── bänke.gif
+│   │   │   │   ├── bänke.jpg
+│   │   │   │   ├── betweenbuttons.gif
+│   │   │   │   ├── bottom_left.gif
+│   │   │   │   ├── bottom_line.gif
+│   │   │   │   ├── bsc.gif
+│   │   │   │   ├── Clipboard10.jpg
+│   │   │   │   ├── emo.jpeg
+│   │   │   │   ├── fb19.gif
+│   │   │   │   ├── fbbsc2.jpg
+│   │   │   │   ├── fbbsc.jpg
+│   │   │   │   ├── fifth_left.gif
+│   │   │   │   ├── forth_left.gif
+│   │   │   │   ├── forth_rightone.gif
+│   │   │   │   ├── forth_righttwo.gif
+│   │   │   │   ├── forth_second.gif
+│   │   │   │   ├── forth_seventh.gif
+│   │   │   │   ├── geography_gis.gif
+│   │   │   │   ├── GeoInfoTechnoTrainAlliance.gif
+│   │   │   │   ├── GIS_logo.gif
+│   │   │   │   ├── gis_world.gif
+│   │   │   │   ├── gitta_kopf.gif
+│   │   │   │   ├── gitta_kopf_klein.gif
+│   │   │   │   ├── gitta_kopf_klein_.gif
+│   │   │   │   ├── human2.jpg
+│   │   │   │   ├── human.jpg
+│   │   │   │   ├── Image1.gif
+│   │   │   │   ├── Image2.pspimage
+│   │   │   │   ├── logo.gif
+│   │   │   │   ├── logo_gis.jpg
+│   │   │   │   ├── mandala.jpg
+│   │   │   │   ├── navigationleft.gif
+│   │   │   │   ├── navigationleft_leer.gif
+│   │   │   │   ├── navigationright.gif
+│   │   │   │   ├── navigationright_leer.gif
+│   │   │   │   ├── pc.jpeg
+│   │   │   │   ├── second_left.gif
+│   │   │   │   ├── second_right.gif
+│   │   │   │   ├── second_second.gif
+│   │   │   │   ├── sixth_two.gif
+│   │   │   │   ├── spacer.gif
+│   │   │   │   ├── stones2.jpg
+│   │   │   │   ├── stones3.jpg
+│   │   │   │   ├── stones.jpg
+│   │   │   │   ├── tiggislogo.jpg
+│   │   │   │   ├── top.gif
+│   │   │   │   └── UC2006_logo_sml.jpg
+│   │   │   ├── mail.php
+│   │   │   ├── metadata_elml.xsl
+│   │   │   ├── navigation
+│   │   │   │   ├── dreieck_act.gif
+│   │   │   │   ├── dreieck.gif
+│   │   │   │   ├── einrueckdreieck_act.gif
+│   │   │   │   ├── einrueckdreieck.gif
+│   │   │   │   ├── einrueckdreieckone_act.gif
+│   │   │   │   ├── einrueckdreieckone.gif
+│   │   │   │   ├── einrueckonedreieck_act.gif
+│   │   │   │   ├── einrueckonedreieck.gif
+│   │   │   │   ├── einrueckoneviereck_act.gif
+│   │   │   │   ├── einrueckoneviereck.gif
+│   │   │   │   ├── einrueckviereck_act.gif
+│   │   │   │   ├── einrueckviereck.gif
+│   │   │   │   ├── einrueckviereckone_act.gif
+│   │   │   │   ├── einrueckviereckone.gif
+│   │   │   │   ├── line_first.gif
+│   │   │   │   ├── line_second.gif
+│   │   │   │   ├── line_space_les.gif
+│   │   │   │   ├── line_space_mod.gif
+│   │   │   │   ├── line_space_uni.gif
+│   │   │   │   ├── line_space_zles.gif
+│   │   │   │   ├── line_space_zuni.gif
+│   │   │   │   ├── line_space_zunilast.gif
+│   │   │   │   ├── line_third.gif
+│   │   │   │   ├── punkt_act.gif
+│   │   │   │   ├── punkt.gif
+│   │   │   │   ├── viereck_act.gif
+│   │   │   │   ├── viereck.gif
+│   │   │   │   ├── zurueckdreieck_act.gif
+│   │   │   │   ├── zurueckdreieck.gif
+│   │   │   │   ├── zurueckviereck_act.gif
+│   │   │   │   └── zurueckviereck.gif
+│   │   │   ├── online.xsl
+│   │   │   ├── oxy3338616393903566652.xsl
+│   │   │   ├── scripts_styles.xsl
+│   │   │   └── test.xml
+│   │   ├── terms
+│   │   │   ├── terms_de_ALL.xml
+│   │   │   ├── terms_en_ALL.xml
+│   │   │   ├── terms_es_ALL.xml
+│   │   │   ├── terms_fr_ALL.xml
+│   │   │   └── terms_it_ALL.xml
+│   │   ├── terms (6)
+│   │   ├── terms.xsl
+│   │   ├── test3
+│   │   │   ├── elml.css
+│   │   │   ├── images
+│   │   │   └── online.xsl
+│   │   └── test4
+│   │       ├── elml.css
+│   │       ├── images
+│   │       └── online.xsl
+│   ├── structure
+│   │   ├── biblio_harvard.xsd
+│   │   ├── config.xsd
+│   │   ├── default_validate.xsd
+│   │   ├── elml.xsd
+│   │   └── metadata_elml.xsd
+│   ├── _templates
+│   │   ├── gisma
+│   │   │   ├── authoring
+│   │   │   │   ├── css
+│   │   │   │   │   ├── big.css
+│   │   │   │   │   ├── main.css
+│   │   │   │   │   ├── main.css.bak
+│   │   │   │   │   ├── Neuer Ordner
+│   │   │   │   │   ├── print.css
+│   │   │   │   │   └── simple.css
+│   │   │   │   └── images
+│   │   │   │       ├── 1.gif
+│   │   │   │       ├── 999999.gif
+│   │   │   │       ├── arrow_down.gif
+│   │   │   │       ├── arrow_download.gif
+│   │   │   │       ├── arrow_left.gif
+│   │   │   │       ├── arrow_right_emergency.gif
+│   │   │   │       ├── arrow_right.gif
+│   │   │   │       ├── arrow_up.gif
+│   │   │   │       ├── arrow_upright.gif
+│   │   │   │       ├── colors.gif
+│   │   │   │       ├── default_head.gif
+│   │   │   │       ├── dot_line540.gif
+│   │   │   │       ├── dot_line66.gif
+│   │   │   │       ├── emofb19.jpg
+│   │   │   │       ├── geo_1.gif
+│   │   │   │       ├── geo2.gif
+│   │   │   │       ├── icon_bigfont.gif
+│   │   │   │       ├── icon_lupe.gif
+│   │   │   │       ├── icon_pda.gif
+│   │   │   │       ├── icon_print.gif
+│   │   │   │       ├── icons
+│   │   │   │       │   ├── asc.gif
+│   │   │   │       │   ├── ascii.gif
+│   │   │   │       │   ├── bin.gif
+│   │   │   │       │   ├── cfg.gif
+│   │   │   │       │   ├── default.gif
+│   │   │   │       │   ├── doc.gif
+│   │   │   │       │   ├── docm.gif
+│   │   │   │       │   ├── docx.gif
+│   │   │   │       │   ├── dot.gif
+│   │   │   │       │   ├── dotm.gif
+│   │   │   │       │   ├── dotx.gif
+│   │   │   │       │   ├── eps.gif
+│   │   │   │       │   ├── GIF.gif
+│   │   │   │       │   ├── hqx.gif
+│   │   │   │       │   ├── jbc.gif
+│   │   │   │       │   ├── jcl.gif
+│   │   │   │       │   ├── jmt.gif
+│   │   │   │       │   ├── jmx.gif
+│   │   │   │       │   ├── jpeg.gif
+│   │   │   │       │   ├── JPG.gif
+│   │   │   │       │   ├── mov.gif
+│   │   │   │       │   ├── mp3.gif
+│   │   │   │       │   ├── mp4.gif
+│   │   │   │       │   ├── mpg.gif
+│   │   │   │       │   ├── pct.gif
+│   │   │   │       │   ├── pdf.gif
+│   │   │   │       │   ├── png.gif
+│   │   │   │       │   ├── pot.gif
+│   │   │   │       │   ├── potm.gif
+│   │   │   │       │   ├── potx.gif
+│   │   │   │       │   ├── ppam.gif
+│   │   │   │       │   ├── ppsm.gif
+│   │   │   │       │   ├── ppsx.gif
+│   │   │   │       │   ├── ppt.gif
+│   │   │   │       │   ├── pptm.gif
+│   │   │   │       │   ├── pptx.gif
+│   │   │   │       │   ├── qx.gif
+│   │   │   │       │   ├── rtf.gif
+│   │   │   │       │   ├── sea.gif
+│   │   │   │       │   ├── sit.gif
+│   │   │   │       │   ├── swa.gif
+│   │   │   │       │   ├── swf.gif
+│   │   │   │       │   ├── tif.gif
+│   │   │   │       │   ├── txt.gif
+│   │   │   │       │   ├── vcf.gif
+│   │   │   │       │   ├── xlam.gif
+│   │   │   │       │   ├── xlsb.gif
+│   │   │   │       │   ├── xls.gif
+│   │   │   │       │   ├── xlsm.gif
+│   │   │   │       │   ├── xlsx.gif
+│   │   │   │       │   ├── xlt.gif
+│   │   │   │       │   ├── xltm.gif
+│   │   │   │       │   ├── xltx.gif
+│   │   │   │       │   ├── xlw.gif
+│   │   │   │       │   └── zip.gif
+│   │   │   │       ├── key-visual.jpg
+│   │   │   │       ├── list_hyphen.gif
+│   │   │   │       ├── list_square.gif
+│   │   │   │       ├── logo_de.gif
+│   │   │   │       ├── logo.jpg
+│   │   │   │       ├── marker10.png
+│   │   │   │       ├── marker1.png
+│   │   │   │       ├── marker2.png
+│   │   │   │       ├── marker3.png
+│   │   │   │       ├── marker4.png
+│   │   │   │       ├── marker5.png
+│   │   │   │       ├── marker6.png
+│   │   │   │       ├── marker7.png
+│   │   │   │       ├── marker8.png
+│   │   │   │       ├── marker9.png
+│   │   │   │       ├── marker.png
+│   │   │   │       ├── podcast.gif
+│   │   │   │       ├── poweredby_FFFFFF.gif
+│   │   │   │       ├── pum.gif
+│   │   │   │       ├── pum_logo.gif
+│   │   │   │       ├── shadow50.png
+│   │   │   │       ├── tabs-active.jpg
+│   │   │   │       └── tabs-inactive.jpg
+│   │   │   ├── big.css
+│   │   │   ├── css
+│   │   │   │   ├── big.css
+│   │   │   │   ├── main.css
+│   │   │   │   ├── print.css
+│   │   │   │   └── simple.css
+│   │   │   ├── elml.css
+│   │   │   ├── elml.css.bak
+│   │   │   ├── elml.js
+│   │   │   ├── elml_print.css
+│   │   │   ├── icons
+│   │   │   │   ├── 1255614740_gnome-mime-text-x-credits.gif
+│   │   │   │   ├── 1.gif
+│   │   │   │   ├── annotation.png
+│   │   │   │   ├── creativecommons.png
+│   │   │   │   ├── folien2.gif
+│   │   │   │   ├── folien.gif
+│   │   │   │   ├── glossary.gif
+│   │   │   │   ├── help.gif
+│   │   │   │   ├── img_0289.gif
+│   │   │   │   ├── important.gif
+│   │   │   │   ├── navi.gif
+│   │   │   │   ├── PDF.gif
+│   │   │   │   ├── podfol.gif
+│   │   │   │   ├── question.gif
+│   │   │   │   ├── remark.gif
+│   │   │   │   ├── sitemap.gif
+│   │   │   │   ├── socialmedia.gif
+│   │   │   │   ├── socialmedia.jpg
+│   │   │   │   ├── term.gif
+│   │   │   │   ├── text.gif
+│   │   │   │   └── world.gif
+│   │   │   ├── images
+│   │   │   │   ├── 1.gif
+│   │   │   │   ├── 999999.gif
+│   │   │   │   ├── arrow_down.gif
+│   │   │   │   ├── arrow_download.gif
+│   │   │   │   ├── arrow_left.gif
+│   │   │   │   ├── arrow_right_emergency.gif
+│   │   │   │   ├── arrow_right.gif
+│   │   │   │   ├── arrow_up.gif
+│   │   │   │   ├── arrow_upright.gif
+│   │   │   │   ├── arrow_weiss.gif
+│   │   │   │   ├── colors.gif
+│   │   │   │   ├── default_head.gif
+│   │   │   │   ├── dot_line540.gif
+│   │   │   │   ├── dot_line66.gif
+│   │   │   │   ├── emofb19.jpg
+│   │   │   │   ├── geo_1.gif
+│   │   │   │   ├── geo2.gif
+│   │   │   │   ├── icon_bigfont.gif
+│   │   │   │   ├── icon_lupe.gif
+│   │   │   │   ├── icon_pda.gif
+│   │   │   │   ├── icon_print.gif
+│   │   │   │   ├── icons
+│   │   │   │   │   ├── asc.gif
+│   │   │   │   │   ├── ascii.gif
+│   │   │   │   │   ├── bin.gif
+│   │   │   │   │   ├── cfg.gif
+│   │   │   │   │   ├── default.gif
+│   │   │   │   │   ├── doc.gif
+│   │   │   │   │   ├── docm.gif
+│   │   │   │   │   ├── docx.gif
+│   │   │   │   │   ├── dot.gif
+│   │   │   │   │   ├── dotm.gif
+│   │   │   │   │   ├── dotx.gif
+│   │   │   │   │   ├── eps.gif
+│   │   │   │   │   ├── GIF.gif
+│   │   │   │   │   ├── hqx.gif
+│   │   │   │   │   ├── jbc.gif
+│   │   │   │   │   ├── jcl.gif
+│   │   │   │   │   ├── jmt.gif
+│   │   │   │   │   ├── jmx.gif
+│   │   │   │   │   ├── jpeg.gif
+│   │   │   │   │   ├── JPG.gif
+│   │   │   │   │   ├── mov.gif
+│   │   │   │   │   ├── mp3.gif
+│   │   │   │   │   ├── mp4.gif
+│   │   │   │   │   ├── mpg.gif
+│   │   │   │   │   ├── pct.gif
+│   │   │   │   │   ├── pdf.gif
+│   │   │   │   │   ├── png.gif
+│   │   │   │   │   ├── pot.gif
+│   │   │   │   │   ├── potm.gif
+│   │   │   │   │   ├── potx.gif
+│   │   │   │   │   ├── ppam.gif
+│   │   │   │   │   ├── ppsm.gif
+│   │   │   │   │   ├── ppsx.gif
+│   │   │   │   │   ├── ppt.gif
+│   │   │   │   │   ├── pptm.gif
+│   │   │   │   │   ├── pptx.gif
+│   │   │   │   │   ├── qx.gif
+│   │   │   │   │   ├── rtf.gif
+│   │   │   │   │   ├── sea.gif
+│   │   │   │   │   ├── sit.gif
+│   │   │   │   │   ├── swa.gif
+│   │   │   │   │   ├── swf.gif
+│   │   │   │   │   ├── tif.gif
+│   │   │   │   │   ├── txt.gif
+│   │   │   │   │   ├── vcf.gif
+│   │   │   │   │   ├── xlam.gif
+│   │   │   │   │   ├── xlsb.gif
+│   │   │   │   │   ├── xls.gif
+│   │   │   │   │   ├── xlsm.gif
+│   │   │   │   │   ├── xlsx.gif
+│   │   │   │   │   ├── xlt.gif
+│   │   │   │   │   ├── xltm.gif
+│   │   │   │   │   ├── xltx.gif
+│   │   │   │   │   ├── xlw.gif
+│   │   │   │   │   └── zip.gif
+│   │   │   │   ├── key-visual.jpg
+│   │   │   │   ├── list_hyphen.gif
+│   │   │   │   ├── list_square.gif
+│   │   │   │   ├── logo_de.gif
+│   │   │   │   ├── logo.jpg
+│   │   │   │   ├── marker10.png
+│   │   │   │   ├── marker1.png
+│   │   │   │   ├── marker2.png
+│   │   │   │   ├── marker3.png
+│   │   │   │   ├── marker4.png
+│   │   │   │   ├── marker5.png
+│   │   │   │   ├── marker6.png
+│   │   │   │   ├── marker7.png
+│   │   │   │   ├── marker8.png
+│   │   │   │   ├── marker9.png
+│   │   │   │   ├── marker.png
+│   │   │   │   ├── podcast.gif
+│   │   │   │   ├── poweredby_FFFFFF.gif
+│   │   │   │   ├── pum.gif
+│   │   │   │   ├── pum_logo2_black.png
+│   │   │   │   ├── pum_logo_2.png
+│   │   │   │   ├── pum_logo2.png
+│   │   │   │   ├── pum_logo2_.png
+│   │   │   │   ├── pum_logo_fav2.png
+│   │   │   │   ├── pum_logo.gif
+│   │   │   │   ├── shadow50.png
+│   │   │   │   ├── tabs-active.jpg
+│   │   │   │   ├── tabs-inactive.jpg
+│   │   │   │   └── think_gisma_logo.png
+│   │   │   ├── lightwindow
+│   │   │   │   ├── css
+│   │   │   │   │   ├── default.css
+│   │   │   │   │   └── lightwindow.css
+│   │   │   │   ├── images
+│   │   │   │   │   ├── ajax-loading.gif
+│   │   │   │   │   ├── arrow-down.gif
+│   │   │   │   │   ├── arrow-up.gif
+│   │   │   │   │   ├── black-70.png
+│   │   │   │   │   ├── black.png
+│   │   │   │   │   ├── blank.gif
+│   │   │   │   │   ├── nextlabel.gif
+│   │   │   │   │   ├── pattern_148-70.png
+│   │   │   │   │   ├── pattern_148.gif
+│   │   │   │   │   └── prevlabel.gif
+│   │   │   │   └── javascript
+│   │   │   │       ├── effects.js
+│   │   │   │       ├── lightwindow.js
+│   │   │   │       ├── lightwindow_loader.js
+│   │   │   │       ├── prototype.js
+│   │   │   │       └── scriptaculous.js
+│   │   │   ├── main.css
+│   │   │   ├── main.css.bak
+│   │   │   ├── navigation
+│   │   │   │   ├── dreieck_act.gif
+│   │   │   │   ├── dreieck.gif
+│   │   │   │   ├── einrueckdreieck_act.gif
+│   │   │   │   ├── einrueckdreieck.gif
+│   │   │   │   ├── einrueckdreieckone_act.gif
+│   │   │   │   ├── einrueckdreieckone.gif
+│   │   │   │   ├── einrueckonedreieck_act.gif
+│   │   │   │   ├── einrueckonedreieck.gif
+│   │   │   │   ├── einrueckoneviereck_act.gif
+│   │   │   │   ├── einrueckoneviereck.gif
+│   │   │   │   ├── einrueckviereck_act.gif
+│   │   │   │   ├── einrueckviereck.gif
+│   │   │   │   ├── einrueckviereckone_act.gif
+│   │   │   │   ├── einrueckviereckone.gif
+│   │   │   │   ├── line_first.gif
+│   │   │   │   ├── line_second.gif
+│   │   │   │   ├── line_space_les.gif
+│   │   │   │   ├── line_space_mod.gif
+│   │   │   │   ├── line_space_uni.gif
+│   │   │   │   ├── line_space_zles.gif
+│   │   │   │   ├── line_space_zuni.gif
+│   │   │   │   ├── line_space_zunilast.gif
+│   │   │   │   ├── line_third.gif
+│   │   │   │   ├── punkt_act.gif
+│   │   │   │   ├── punkt.gif
+│   │   │   │   ├── viereck_act.gif
+│   │   │   │   ├── viereck.gif
+│   │   │   │   ├── zurueckdreieck_act.gif
+│   │   │   │   ├── zurueckdreieck.gif
+│   │   │   │   ├── zurueckviereck_act.gif
+│   │   │   │   └── zurueckviereck.gif
+│   │   │   ├── online.xsl
+│   │   │   ├── online.xsl.bak
+│   │   │   ├── print.css
+│   │   │   ├── simple.css
+│   │   │   └── think_gisma_logo.png
+│   │   └── Vista
+│   │       ├── authoring
+│   │       │   ├── css
+│   │       │   │   ├── big.css
+│   │       │   │   ├── main.css
+│   │       │   │   ├── main.css.bak
+│   │       │   │   ├── Neuer Ordner
+│   │       │   │   ├── print.css
+│   │       │   │   └── simple.css
+│   │       │   └── images
+│   │       │       ├── 1.gif
+│   │       │       ├── 999999.gif
+│   │       │       ├── arrow_down.gif
+│   │       │       ├── arrow_download.gif
+│   │       │       ├── arrow_left.gif
+│   │       │       ├── arrow_right_emergency.gif
+│   │       │       ├── arrow_right.gif
+│   │       │       ├── arrow_up.gif
+│   │       │       ├── arrow_upright.gif
+│   │       │       ├── colors.gif
+│   │       │       ├── default_head.gif
+│   │       │       ├── dot_line540.gif
+│   │       │       ├── dot_line66.gif
+│   │       │       ├── emofb19.jpg
+│   │       │       ├── geo_1.gif
+│   │       │       ├── geo2.gif
+│   │       │       ├── icon_bigfont.gif
+│   │       │       ├── icon_lupe.gif
+│   │       │       ├── icon_pda.gif
+│   │       │       ├── icon_print.gif
+│   │       │       ├── icons
+│   │       │       │   ├── asc.gif
+│   │       │       │   ├── ascii.gif
+│   │       │       │   ├── bin.gif
+│   │       │       │   ├── cfg.gif
+│   │       │       │   ├── default.gif
+│   │       │       │   ├── doc.gif
+│   │       │       │   ├── docm.gif
+│   │       │       │   ├── docx.gif
+│   │       │       │   ├── dot.gif
+│   │       │       │   ├── dotm.gif
+│   │       │       │   ├── dotx.gif
+│   │       │       │   ├── eps.gif
+│   │       │       │   ├── GIF.gif
+│   │       │       │   ├── hqx.gif
+│   │       │       │   ├── jbc.gif
+│   │       │       │   ├── jcl.gif
+│   │       │       │   ├── jmt.gif
+│   │       │       │   ├── jmx.gif
+│   │       │       │   ├── jpeg.gif
+│   │       │       │   ├── JPG.gif
+│   │       │       │   ├── mov.gif
+│   │       │       │   ├── mp3.gif
+│   │       │       │   ├── mp4.gif
+│   │       │       │   ├── mpg.gif
+│   │       │       │   ├── pct.gif
+│   │       │       │   ├── pdf.gif
+│   │       │       │   ├── png.gif
+│   │       │       │   ├── pot.gif
+│   │       │       │   ├── potm.gif
+│   │       │       │   ├── potx.gif
+│   │       │       │   ├── ppam.gif
+│   │       │       │   ├── ppsm.gif
+│   │       │       │   ├── ppsx.gif
+│   │       │       │   ├── ppt.gif
+│   │       │       │   ├── pptm.gif
+│   │       │       │   ├── pptx.gif
+│   │       │       │   ├── qx.gif
+│   │       │       │   ├── rtf.gif
+│   │       │       │   ├── sea.gif
+│   │       │       │   ├── sit.gif
+│   │       │       │   ├── swa.gif
+│   │       │       │   ├── swf.gif
+│   │       │       │   ├── tif.gif
+│   │       │       │   ├── txt.gif
+│   │       │       │   ├── vcf.gif
+│   │       │       │   ├── xlam.gif
+│   │       │       │   ├── xlsb.gif
+│   │       │       │   ├── xls.gif
+│   │       │       │   ├── xlsm.gif
+│   │       │       │   ├── xlsx.gif
+│   │       │       │   ├── xlt.gif
+│   │       │       │   ├── xltm.gif
+│   │       │       │   ├── xltx.gif
+│   │       │       │   ├── xlw.gif
+│   │       │       │   └── zip.gif
+│   │       │       ├── key-visual.jpg
+│   │       │       ├── list_hyphen.gif
+│   │       │       ├── list_square.gif
+│   │       │       ├── logo_de.gif
+│   │       │       ├── logo.jpg
+│   │       │       ├── marker10.png
+│   │       │       ├── marker1.png
+│   │       │       ├── marker2.png
+│   │       │       ├── marker3.png
+│   │       │       ├── marker4.png
+│   │       │       ├── marker5.png
+│   │       │       ├── marker6.png
+│   │       │       ├── marker7.png
+│   │       │       ├── marker8.png
+│   │       │       ├── marker9.png
+│   │       │       ├── marker.png
+│   │       │       ├── podcast.gif
+│   │       │       ├── poweredby_FFFFFF.gif
+│   │       │       ├── pum.gif
+│   │       │       ├── pum_logo.gif
+│   │       │       ├── shadow50.png
+│   │       │       ├── tabs-active.jpg
+│   │       │       └── tabs-inactive.jpg
+│   │       ├── elml.css
+│   │       ├── elml.js
+│   │       ├── elml_print.css
+│   │       ├── images
+│   │       │   └── think_spatial_logo.jpg
+│   │       ├── lightwindow
+│   │       │   ├── css
+│   │       │   │   ├── default.css
+│   │       │   │   └── lightwindow.css
+│   │       │   ├── images
+│   │       │   │   ├── ajax-loading.gif
+│   │       │   │   ├── arrow-down.gif
+│   │       │   │   ├── arrow-up.gif
+│   │       │   │   ├── black-70.png
+│   │       │   │   ├── black.png
+│   │       │   │   ├── blank.gif
+│   │       │   │   ├── nextlabel.gif
+│   │       │   │   ├── pattern_148-70.png
+│   │       │   │   ├── pattern_148.gif
+│   │       │   │   └── prevlabel.gif
+│   │       │   └── javascript
+│   │       │       ├── effects.js
+│   │       │       ├── lightwindow.js
+│   │       │       ├── lightwindow_loader.js
+│   │       │       ├── prototype.js
+│   │       │       └── scriptaculous.js
+│   │       ├── online.xsl
+│   │       ├── online.xsl.bak
+│   │       └── Vista.xml
+│   └── tools
+│       ├── easyELML
+│       │   └── readme.txt
+│       ├── firedocs
+│       │   ├── easyELML
+│       │   │   └── readme.txt
+│       │   ├── releases
+│       │   │   ├── firedocs-elml-1-2b06.xpi
+│       │   │   ├── firedocs-elml-1-3b03.xpi
+│       │   │   └── firedocs-elml-1-5.1.1.xpi
+│       │   └── source
+│       │       └── readme.txt
+│       ├── lenya_addon
+│       │   ├── documentation.pdf
+│       │   └── readme.txt
+│       ├── make4eLML
+│       │   └── readme.txt
+│       ├── ooffice_plugin
+│       │   ├── releases
+│       │   │   ├── attributes.xsl
+│       │   │   ├── elml_ooffice_plugin_1b01.zip
+│       │   │   ├── elml_package_1b01.zip
+│       │   │   ├── elml.xsl
+│       │   │   └── help.pdf
+│       │   └── source
+│       │       ├── attributes.xsl
+│       │       ├── build.xml
+│       │       ├── classes
+│       │       │   ├── ElmlEditor.manifest
+│       │       │   └── org
+│       │       │       └── openoffice
+│       │       │           ├── addon
+│       │       │           │   ├── ContentAccess.class
+│       │       │           │   ├── ContentCitation.class
+│       │       │           │   ├── ContentContext.class
+│       │       │           │   ├── ContentFactory.class
+│       │       │           │   ├── ContentRemove.class
+│       │       │           │   ├── ContentTerm.class
+│       │       │           │   ├── ContextMenuInterceptor.class
+│       │       │           │   ├── ContTabledata.class
+│       │       │           │   ├── CVS
+│       │       │           │   │   ├── Entries
+│       │       │           │   │   ├── Repository
+│       │       │           │   │   └── Root
+│       │       │           │   ├── DialogController.class
+│       │       │           │   ├── ElementController.class
+│       │       │           │   ├── Elements.class
+│       │       │           │   ├── ElmlAct.class
+│       │       │           │   ├── ElmlBibEntry.class
+│       │       │           │   ├── ElmlBibliography.class
+│       │       │           │   ├── ElmlBox.class
+│       │       │           │   ├── ElmlClarify.class
+│       │       │           │   ├── ElmlEditor.class
+│       │       │           │   ├── ElmlEntry.class
+│       │       │           │   ├── ElmlGlossary.class
+│       │       │           │   ├── ElmlGoals.class
+│       │       │           │   ├── ElmlLearningObject.class
+│       │       │           │   ├── ElmlLesson.class
+│       │       │           │   ├── ElmlLook.class
+│       │       │           │   ├── ElmlSummary.class
+│       │       │           │   ├── ElmlUnit.class
+│       │       │           │   ├── ElmlUnitSummary.class
+│       │       │           │   ├── FrameInfo.class
+│       │       │           │   ├── FrameListener.class
+│       │       │           │   ├── Interceptor.class
+│       │       │           │   ├── MsgBox.class
+│       │       │           │   ├── SelectionChangeListener.class
+│       │       │           │   ├── StylesInit.class
+│       │       │           │   ├── Validator.class
+│       │       │           │   └── XmlConverter.class
+│       │       │           └── CVS
+│       │       │               ├── Entries
+│       │       │               ├── Repository
+│       │       │               └── Root
+│       │       ├── elml.xsl
+│       │       ├── release
+│       │       │   ├── Addons.xcu
+│       │       │   ├── ElmlEditor.jar
+│       │       │   ├── ElmlEditor.zip
+│       │       │   ├── images
+│       │       │   │   ├── bg_lesson.gif
+│       │       │   │   ├── delete.bmp
+│       │       │   │   ├── edit.bmp
+│       │       │   │   ├── export.bmp
+│       │       │   │   └── lesson.bmp
+│       │       │   ├── Jobs.xcu
+│       │       │   ├── META-INF
+│       │       │   │   └── manifest.xml
+│       │       │   ├── ProtocolHandler.xcu
+│       │       │   └── WriterWindowState.xcu
+│       │       └── source
+│       │           └── org
+│       │               └── openoffice
+│       │                   ├── addon
+│       │                   │   ├── ContentAccess.java
+│       │                   │   ├── ContentCitation.java
+│       │                   │   ├── ContentContext.java
+│       │                   │   ├── ContentFactory.java
+│       │                   │   ├── ContentRemove.java
+│       │                   │   ├── ContentTerm.java
+│       │                   │   ├── ContextMenuInterceptor.java
+│       │                   │   ├── ContTabledata.java
+│       │                   │   ├── CVS
+│       │                   │   │   ├── Entries
+│       │                   │   │   ├── Repository
+│       │                   │   │   └── Root
+│       │                   │   ├── DialogController.java
+│       │                   │   ├── ElementController.java
+│       │                   │   ├── Elements.java
+│       │                   │   ├── ElmlAct.java
+│       │                   │   ├── ElmlBibEntry.java
+│       │                   │   ├── ElmlBibliography.java
+│       │                   │   ├── ElmlBox.java
+│       │                   │   ├── ElmlClarify.java
+│       │                   │   ├── ElmlEditor.java
+│       │                   │   ├── ElmlEntry.java
+│       │                   │   ├── ElmlGlossary.java
+│       │                   │   ├── ElmlGoals.java
+│       │                   │   ├── ElmlLearningObject.java
+│       │                   │   ├── ElmlLesson.java
+│       │                   │   ├── ElmlLook.java
+│       │                   │   ├── ElmlSummary.java
+│       │                   │   ├── ElmlUnit.java
+│       │                   │   ├── ElmlUnitSummary.java
+│       │                   │   ├── FrameInfo.java
+│       │                   │   ├── FrameListener.java
+│       │                   │   ├── Interceptor.java
+│       │                   │   ├── MsgBox.java
+│       │                   │   ├── SelectionChangeListener.java
+│       │                   │   ├── StylesInit.java
+│       │                   │   ├── Validator.java
+│       │                   │   └── XmlConverter.java
+│       │                   └── CVS
+│       │                       ├── Entries
+│       │                       ├── Repository
+│       │                       └── Root
+│       └── template_builder
+│           └── readme.txt
+├── daten
+│   ├── Aufgabe1Daten.zip
+│   ├── Metadaten.txt
+│   ├── startpunkt.dbf
+│   ├── startpunkt.shp
+│   ├── startpunkt.shx
+│   ├── verwaltungsgrenzen.dbf
+│   ├── verwaltungsgrenzen.shp
+│   └── verwaltungsgrenzen.shx
+├── docs
+├── favicon.ico
+├── gis-bisc.Rproj
+├── GISBScL1
+│   └── de
+│       ├── html
+│       │   ├── adlcp_rootv1p2.xsd
+│       │   ├── GISBScL1_bibliography.html
+│       │   ├── GISBScL1_glossary.html
+│       │   ├── GISBScL1_metadata.html
+│       │   ├── GISBScL1_summary.html
+│       │   ├── GISBScL1_W_UE.html
+│       │   ├── GISBSc_UE1_summary.html
+│       │   ├── GISBSc_UE1_U_lo1.html
+│       │   ├── GISBSc_UE1_U_lo2.html
+│       │   ├── GISBSc_UE1_U_lo3.html
+│       │   ├── GISBSc_VL1_V_lo0.html
+│       │   ├── GISBSc_VL1_V_lo1.html
+│       │   ├── GISBSc_VL1_V_lo2.html
+│       │   ├── GISBSc_VL1_V_lo3.html
+│       │   ├── GISBSc_VL1_V_lo4.html
+│       │   ├── GISBSc_VL2_V_lo5.html
+│       │   ├── GISBSc_VL2_V_lo6.html
+│       │   ├── GISBSc_VL3_V_lo10.html
+│       │   ├── GISBSc_VL3_V_lo11.html
+│       │   ├── GISBSc_VL3_V_lo12.html
+│       │   ├── GISBSc_VL3_V_lo13.html
+│       │   ├── GISBSc_VL3_V_lo14.html
+│       │   ├── GISBSc_VL3_V_lo16.html
+│       │   ├── GISBSc_VL3_V_lo9.html
+│       │   ├── gisma
+│       │   │   ├── authoring
+│       │   │   │   ├── css
+│       │   │   │   │   ├── big.css
+│       │   │   │   │   ├── main.css
+│       │   │   │   │   ├── main.css.bak
+│       │   │   │   │   ├── mainohne.css
+│       │   │   │   │   ├── Neuer Ordner
+│       │   │   │   │   ├── print.css
+│       │   │   │   │   └── simple.css
+│       │   │   │   └── images
+│       │   │   │       ├── 1.gif
+│       │   │   │       ├── 999999.gif
+│       │   │   │       ├── arrow_down.gif
+│       │   │   │       ├── arrow_download.gif
+│       │   │   │       ├── arrow_left.gif
+│       │   │   │       ├── arrow_right_emergency.gif
+│       │   │   │       ├── arrow_right.gif
+│       │   │   │       ├── arrow_up.gif
+│       │   │   │       ├── arrow_upright.gif
+│       │   │   │       ├── colors.gif
+│       │   │   │       ├── default_head.gif
+│       │   │   │       ├── dot_line540.gif
+│       │   │   │       ├── dot_line66.gif
+│       │   │   │       ├── emofb19.jpg
+│       │   │   │       ├── geo_1.gif
+│       │   │   │       ├── geo2.gif
+│       │   │   │       ├── icon_bigfont.gif
+│       │   │   │       ├── icon_lupe.gif
+│       │   │   │       ├── icon_pda.gif
+│       │   │   │       ├── icon_print.gif
+│       │   │   │       ├── icons
+│       │   │   │       │   ├── asc.gif
+│       │   │   │       │   ├── ascii.gif
+│       │   │   │       │   ├── bin.gif
+│       │   │   │       │   ├── cfg.gif
+│       │   │   │       │   ├── default.gif
+│       │   │   │       │   ├── doc.gif
+│       │   │   │       │   ├── docm.gif
+│       │   │   │       │   ├── docx.gif
+│       │   │   │       │   ├── dot.gif
+│       │   │   │       │   ├── dotm.gif
+│       │   │   │       │   ├── dotx.gif
+│       │   │   │       │   ├── eps.gif
+│       │   │   │       │   ├── GIF.gif
+│       │   │   │       │   ├── hqx.gif
+│       │   │   │       │   ├── jbc.gif
+│       │   │   │       │   ├── jcl.gif
+│       │   │   │       │   ├── jmt.gif
+│       │   │   │       │   ├── jmx.gif
+│       │   │   │       │   ├── jpeg.gif
+│       │   │   │       │   ├── JPG.gif
+│       │   │   │       │   ├── mov.gif
+│       │   │   │       │   ├── mp3.gif
+│       │   │   │       │   ├── mp4.gif
+│       │   │   │       │   ├── mpg.gif
+│       │   │   │       │   ├── pct.gif
+│       │   │   │       │   ├── pdf.gif
+│       │   │   │       │   ├── png.gif
+│       │   │   │       │   ├── pot.gif
+│       │   │   │       │   ├── potm.gif
+│       │   │   │       │   ├── potx.gif
+│       │   │   │       │   ├── ppam.gif
+│       │   │   │       │   ├── ppsm.gif
+│       │   │   │       │   ├── ppsx.gif
+│       │   │   │       │   ├── ppt.gif
+│       │   │   │       │   ├── pptm.gif
+│       │   │   │       │   ├── pptx.gif
+│       │   │   │       │   ├── qx.gif
+│       │   │   │       │   ├── rtf.gif
+│       │   │   │       │   ├── sea.gif
+│       │   │   │       │   ├── sit.gif
+│       │   │   │       │   ├── swa.gif
+│       │   │   │       │   ├── swf.gif
+│       │   │   │       │   ├── tif.gif
+│       │   │   │       │   ├── txt.gif
+│       │   │   │       │   ├── vcf.gif
+│       │   │   │       │   ├── xlam.gif
+│       │   │   │       │   ├── xlsb.gif
+│       │   │   │       │   ├── xls.gif
+│       │   │   │       │   ├── xlsm.gif
+│       │   │   │       │   ├── xlsx.gif
+│       │   │   │       │   ├── xlt.gif
+│       │   │   │       │   ├── xltm.gif
+│       │   │   │       │   ├── xltx.gif
+│       │   │   │       │   ├── xlw.gif
+│       │   │   │       │   └── zip.gif
+│       │   │   │       ├── key-visual.jpg
+│       │   │   │       ├── list_hyphen.gif
+│       │   │   │       ├── list_square.gif
+│       │   │   │       ├── logo_de.gif
+│       │   │   │       ├── logo.jpg
+│       │   │   │       ├── marker10.png
+│       │   │   │       ├── marker1.png
+│       │   │   │       ├── marker2.png
+│       │   │   │       ├── marker3.png
+│       │   │   │       ├── marker4.png
+│       │   │   │       ├── marker5.png
+│       │   │   │       ├── marker6.png
+│       │   │   │       ├── marker7.png
+│       │   │   │       ├── marker8.png
+│       │   │   │       ├── marker9.png
+│       │   │   │       ├── marker.png
+│       │   │   │       ├── podcast.gif
+│       │   │   │       ├── poweredby_FFFFFF.gif
+│       │   │   │       ├── pum.gif
+│       │   │   │       ├── pum_logo.gif
+│       │   │   │       ├── shadow50.png
+│       │   │   │       ├── tabs-active.jpg
+│       │   │   │       └── tabs-inactive.jpg
+│       │   │   ├── big.css
+│       │   │   ├── css
+│       │   │   │   ├── big.css
+│       │   │   │   ├── main.css
+│       │   │   │   ├── print.css
+│       │   │   │   └── simple.css
+│       │   │   ├── elml.css
+│       │   │   ├── elml.css.bak
+│       │   │   ├── elml.js
+│       │   │   ├── elml_print.css
+│       │   │   ├── icons
+│       │   │   │   ├── 1255614740_gnome-mime-text-x-credits.gif
+│       │   │   │   ├── 1.gif
+│       │   │   │   ├── annotation.png
+│       │   │   │   ├── creativecommons.png
+│       │   │   │   ├── folien2.gif
+│       │   │   │   ├── folien.gif
+│       │   │   │   ├── glossary.gif
+│       │   │   │   ├── help.gif
+│       │   │   │   ├── idee.gif
+│       │   │   │   ├── img_0289.gif
+│       │   │   │   ├── important.gif
+│       │   │   │   ├── logo.gif
+│       │   │   │   ├── navi.gif
+│       │   │   │   ├── PDF.gif
+│       │   │   │   ├── podfol.gif
+│       │   │   │   ├── question.gif
+│       │   │   │   ├── remark.gif
+│       │   │   │   ├── sitemap.gif
+│       │   │   │   ├── socialmedia.gif
+│       │   │   │   ├── socialmedia.jpg
+│       │   │   │   ├── term.gif
+│       │   │   │   ├── text.gif
+│       │   │   │   ├── tools.gif
+│       │   │   │   └── world.gif
+│       │   │   ├── images
+│       │   │   │   ├── 1.gif
+│       │   │   │   ├── 999999.gif
+│       │   │   │   ├── arrow_down.gif
+│       │   │   │   ├── arrow_download.gif
+│       │   │   │   ├── arrow_left.gif
+│       │   │   │   ├── arrow_right_emergency.gif
+│       │   │   │   ├── arrow_right.gif
+│       │   │   │   ├── arrow_up.gif
+│       │   │   │   ├── arrow_upright.gif
+│       │   │   │   ├── arrow_weiss.gif
+│       │   │   │   ├── colors.gif
+│       │   │   │   ├── default_head.gif
+│       │   │   │   ├── dot_line540.gif
+│       │   │   │   ├── dot_line66.gif
+│       │   │   │   ├── emofb19.jpg
+│       │   │   │   ├── geo_1.gif
+│       │   │   │   ├── geo2.gif
+│       │   │   │   ├── icon_bigfont.gif
+│       │   │   │   ├── icon_lupe.gif
+│       │   │   │   ├── icon_pda.gif
+│       │   │   │   ├── icon_print.gif
+│       │   │   │   ├── icons
+│       │   │   │   │   ├── 1255614740_gnome-mime-text-x-credits.gif
+│       │   │   │   │   ├── 1.gif
+│       │   │   │   │   ├── annotation.png
+│       │   │   │   │   ├── asc.gif
+│       │   │   │   │   ├── ascii.gif
+│       │   │   │   │   ├── bin.gif
+│       │   │   │   │   ├── cfg.gif
+│       │   │   │   │   ├── creativecommons.png
+│       │   │   │   │   ├── default.gif
+│       │   │   │   │   ├── doc.gif
+│       │   │   │   │   ├── docm.gif
+│       │   │   │   │   ├── docx.gif
+│       │   │   │   │   ├── dot.gif
+│       │   │   │   │   ├── dotm.gif
+│       │   │   │   │   ├── dotx.gif
+│       │   │   │   │   ├── eps.gif
+│       │   │   │   │   ├── folien2.gif
+│       │   │   │   │   ├── folien.gif
+│       │   │   │   │   ├── GIF.gif
+│       │   │   │   │   ├── glossary.gif
+│       │   │   │   │   ├── help.gif
+│       │   │   │   │   ├── hqx.gif
+│       │   │   │   │   ├── img_0289.gif
+│       │   │   │   │   ├── important.gif
+│       │   │   │   │   ├── jbc.gif
+│       │   │   │   │   ├── jcl.gif
+│       │   │   │   │   ├── jmt.gif
+│       │   │   │   │   ├── jmx.gif
+│       │   │   │   │   ├── jpeg.gif
+│       │   │   │   │   ├── JPG.gif
+│       │   │   │   │   ├── logo.gif
+│       │   │   │   │   ├── mov.gif
+│       │   │   │   │   ├── mp3.gif
+│       │   │   │   │   ├── mp4.gif
+│       │   │   │   │   ├── mpg.gif
+│       │   │   │   │   ├── navi.gif
+│       │   │   │   │   ├── pct.gif
+│       │   │   │   │   ├── pdf.gif
+│       │   │   │   │   ├── png.gif
+│       │   │   │   │   ├── podfol.gif
+│       │   │   │   │   ├── pot.gif
+│       │   │   │   │   ├── potm.gif
+│       │   │   │   │   ├── potx.gif
+│       │   │   │   │   ├── ppam.gif
+│       │   │   │   │   ├── ppsm.gif
+│       │   │   │   │   ├── ppsx.gif
+│       │   │   │   │   ├── ppt.gif
+│       │   │   │   │   ├── pptm.gif
+│       │   │   │   │   ├── pptx.gif
+│       │   │   │   │   ├── question.gif
+│       │   │   │   │   ├── qx.gif
+│       │   │   │   │   ├── remark.gif
+│       │   │   │   │   ├── rtf.gif
+│       │   │   │   │   ├── sea.gif
+│       │   │   │   │   ├── sitemap.gif
+│       │   │   │   │   ├── sit.gif
+│       │   │   │   │   ├── socialmedia.gif
+│       │   │   │   │   ├── socialmedia.jpg
+│       │   │   │   │   ├── swa.gif
+│       │   │   │   │   ├── swf.gif
+│       │   │   │   │   ├── term.gif
+│       │   │   │   │   ├── text.gif
+│       │   │   │   │   ├── tif.gif
+│       │   │   │   │   ├── txt.gif
+│       │   │   │   │   ├── vcf.gif
+│       │   │   │   │   ├── world.gif
+│       │   │   │   │   ├── xlam.gif
+│       │   │   │   │   ├── xlsb.gif
+│       │   │   │   │   ├── xls.gif
+│       │   │   │   │   ├── xlsm.gif
+│       │   │   │   │   ├── xlsx.gif
+│       │   │   │   │   ├── xlt.gif
+│       │   │   │   │   ├── xltm.gif
+│       │   │   │   │   ├── xltx.gif
+│       │   │   │   │   ├── xlw.gif
+│       │   │   │   │   └── zip.gif
+│       │   │   │   ├── key-visual.jpg
+│       │   │   │   ├── list_hyphen.gif
+│       │   │   │   ├── list_square.gif
+│       │   │   │   ├── logo_de.gif
+│       │   │   │   ├── logo.jpg
+│       │   │   │   ├── marker10.png
+│       │   │   │   ├── marker1.png
+│       │   │   │   ├── marker2.png
+│       │   │   │   ├── marker3.png
+│       │   │   │   ├── marker4.png
+│       │   │   │   ├── marker5.png
+│       │   │   │   ├── marker6.png
+│       │   │   │   ├── marker7.png
+│       │   │   │   ├── marker8.png
+│       │   │   │   ├── marker9.png
+│       │   │   │   ├── marker.png
+│       │   │   │   ├── podcast.gif
+│       │   │   │   ├── poweredby_FFFFFF.gif
+│       │   │   │   ├── pum.gif
+│       │   │   │   ├── pum_logo2_black.png
+│       │   │   │   ├── pum_logo_2.png
+│       │   │   │   ├── pum_logo2.png
+│       │   │   │   ├── pum_logo2_.png
+│       │   │   │   ├── pum_logo_fav2.png
+│       │   │   │   ├── pum_logo.gif
+│       │   │   │   ├── shadow50.png
+│       │   │   │   ├── tabs-active.jpg
+│       │   │   │   ├── tabs-inactive.jpg
+│       │   │   │   └── think_gisma_logo.png
+│       │   │   ├── lightwindow
+│       │   │   │   ├── css
+│       │   │   │   │   ├── default.css
+│       │   │   │   │   └── lightwindow.css
+│       │   │   │   ├── images
+│       │   │   │   │   ├── ajax-loading.gif
+│       │   │   │   │   ├── arrow-down.gif
+│       │   │   │   │   ├── arrow-up.gif
+│       │   │   │   │   ├── black-70.png
+│       │   │   │   │   ├── black.png
+│       │   │   │   │   ├── blank.gif
+│       │   │   │   │   ├── nextlabel.gif
+│       │   │   │   │   ├── pattern_148-70.png
+│       │   │   │   │   ├── pattern_148.gif
+│       │   │   │   │   └── prevlabel.gif
+│       │   │   │   └── javascript
+│       │   │   │       ├── effects.js
+│       │   │   │       ├── lightwindow.js
+│       │   │   │       ├── lightwindow_loader.js
+│       │   │   │       ├── prototype.js
+│       │   │   │       └── scriptaculous.js
+│       │   │   ├── main.css
+│       │   │   ├── main.css.bak
+│       │   │   ├── material
+│       │   │   │   ├── 1970_-_tobler_-_a_computer_movie_simulating_urban_growth_in_the_detroit_region1.pdf
+│       │   │   │   ├── AGIT_09_Beitrag_Kanwischer_Reudenbach_Schulze.pdf
+│       │   │   │   ├── All_about_Shapefiles.pdf
+│       │   │   │   ├── bukowsko.kml
+│       │   │   │   ├── BuT.pdf
+│       │   │   │   ├── Datensatz1.zip
+│       │   │   │   ├── Datensatz2.zip
+│       │   │   │   ├── Datensatz3.zip
+│       │   │   │   ├── facts1995_wolf.pdf
+│       │   │   │   ├── facts2001_wolf.pdf
+│       │   │   │   ├── GIS1_Besprechungsprotokoll_Projektarbeit.pdf
+│       │   │   │   ├── GIS1_Expose.odt
+│       │   │   │   ├── GIS1_Expose.pdf
+│       │   │   │   ├── GIS1_ProjektHAndbuch.pdf
+│       │   │   │   ├── HSW6_2010_Schulze_Kanwischer_Reudenbach.pdf
+│       │   │   │   ├── koordinatentransformationenwuppertal.pdf
+│       │   │   │   ├── Kurzinfo_Shapefiles.pdf
+│       │   │   │   ├── PM_Rosner.pdf
+│       │   │   │   ├── PostPanneSoltau.kmz
+│       │   │   │   ├── Projektprotokolle.zip
+│       │   │   │   ├── RasteroderVektormodell3D.kmz
+│       │   │   │   ├── vermessungskundeskript_tuberlin.pdf
+│       │   │   │   ├── Weight.xls
+│       │   │   │   └── wolf_kora.pdf
+│       │   │   ├── navigation
+│       │   │   │   ├── dreieck_act.gif
+│       │   │   │   ├── dreieck.gif
+│       │   │   │   ├── einrueckdreieck_act.gif
+│       │   │   │   ├── einrueckdreieck.gif
+│       │   │   │   ├── einrueckdreieckone_act.gif
+│       │   │   │   ├── einrueckdreieckone.gif
+│       │   │   │   ├── einrueckonedreieck_act.gif
+│       │   │   │   ├── einrueckonedreieck.gif
+│       │   │   │   ├── einrueckoneviereck_act.gif
+│       │   │   │   ├── einrueckoneviereck.gif
+│       │   │   │   ├── einrueckviereck_act.gif
+│       │   │   │   ├── einrueckviereck.gif
+│       │   │   │   ├── einrueckviereckone_act.gif
+│       │   │   │   ├── einrueckviereckone.gif
+│       │   │   │   ├── line_first.gif
+│       │   │   │   ├── line_second.gif
+│       │   │   │   ├── line_space_les.gif
+│       │   │   │   ├── line_space_mod.gif
+│       │   │   │   ├── line_space_uni.gif
+│       │   │   │   ├── line_space_zles.gif
+│       │   │   │   ├── line_space_zuni.gif
+│       │   │   │   ├── line_space_zunilast.gif
+│       │   │   │   ├── line_third.gif
+│       │   │   │   ├── punkt_act.gif
+│       │   │   │   ├── punkt.gif
+│       │   │   │   ├── viereck_act.gif
+│       │   │   │   ├── viereck.gif
+│       │   │   │   ├── zurueckdreieck_act.gif
+│       │   │   │   ├── zurueckdreieck.gif
+│       │   │   │   ├── zurueckviereck_act.gif
+│       │   │   │   └── zurueckviereck.gif
+│       │   │   ├── online.xsl
+│       │   │   ├── online.xsl.bak
+│       │   │   ├── print.css
+│       │   │   ├── simple.css
+│       │   │   └── think_gisma_logo.png
+│       │   ├── imscp_rootv1p1p2.xsd
+│       │   ├── imsmd_rootv1p2p1.xsd
+│       │   ├── ims_xml.xsd
+│       │   ├── index.html
+│       │   ├── scorm_generic.js
+│       │   ├── selfCheck.css
+│       │   ├── selfCheck.js
+│       │   ├── stylesheet.css
+│       │   ├── unit_GISBSc_UE1.html
+│       │   ├── unit_GISBSc_VL1.html
+│       │   ├── unit_GISBSc_VL2.html
+│       │   ├── unit_GISBSc_VL3.html
+│       │   └── wz_tooltip.js
+│       ├── image
+│       │   ├── 123d_bartelme.png
+│       │   ├── 1_Problem.png
+│       │   ├── 1_Problemstellung.png
+│       │   ├── 1_Recherche.png
+│       │   ├── 2_Loesungsansatz.png
+│       │   ├── 2_Probleme.png
+│       │   ├── 2_Problem.png
+│       │   ├── 2_Recherche.png
+│       │   ├── 2_Teilprobleme.png
+│       │   ├── 3D_coordinate_system.png
+│       │   ├── 3_Loesungsansatz.png
+│       │   ├── 4_Arbeitsschritte.png
+│       │   ├── 4_diskutieren.png
+│       │   ├── 4_Problem.png
+│       │   ├── 4_Recherche.png
+│       │   ├── 500px-3D_coordinate_system.svg.png
+│       │   ├── 500px-Cartesian-coordinate-system.svg.png
+│       │   ├── 5_Arbeitsplan.png
+│       │   ├── bartelme_kommunikation.png
+│       │   ├── Bild 384.jpg
+│       │   ├── bukowsko1906.jpg
+│       │   ├── bukowsko.kml
+│       │   ├── Cartesian-coordinate-system.png
+│       │   ├── Datenmodell.png
+│       │   ├── DEM_franken.png
+│       │   ├── eierbrunnen.jpg
+│       │   ├── evap_flow.png
+│       │   ├── evap.png
+│       │   ├── folien.png
+│       │   ├── Fraenkische_Schweiz.png
+│       │   ├── Fraenkische-Schweiz-westliche-Kante-16-05-2005.png
+│       │   ├── geodatum.png
+│       │   ├── geodatum_verschiebung.png
+│       │   ├── geodetic_observatory_wettzell.jpg
+│       │   ├── geoids_sm.jpg
+│       │   ├── Geoobjekt1.png
+│       │   ├── Geoobjekt2.png
+│       │   ├── geoundaequrp.png
+│       │   ├── geoundnsrp.png
+│       │   ├── hier.gif
+│       │   ├── JOSM-ss.png
+│       │   ├── karteluftbild.png
+│       │   ├── kartesisch_Rastermodell_pluskoord.png
+│       │   ├── kartesisch_Rastermodell.png
+│       │   ├── kartesisch_Rastermodell_umsetzungvektor1.png
+│       │   ├── kartesisch_Rastermodell_umsetzungvektor.png
+│       │   ├── kugelkoordinaten.png
+│       │   ├── lambda.png
+│       │   ├── LiniennetzMarburg.png
+│       │   ├── loesungskonzept_alternativ.png
+│       │   ├── loesungskonzept_lesson_1.png
+│       │   ├── modellbildung1.png
+│       │   ├── modellbildung.png
+│       │   ├── netzmarburg.png
+│       │   ├── osgeo.png
+│       │   ├── osm_shot.png
+│       │   ├── Phi.png
+│       │   ├── ptolo.png
+│       │   ├── questionmark.png
+│       │   ├── RasteroderVektormodell3D.kmz
+│       │   ├── RasteroderVektormodell.kmz
+│       │   ├── Raster_quadrat_raum.png
+│       │   ├── Raster_tessl.png
+│       │   ├── RasterVektor_1.png
+│       │   ├── rotationsellipse.png
+│       │   ├── rotell2.png
+│       │   ├── Sanspareil_Luftbild_West.jpg
+│       │   ├── Segnaleladino.jpg
+│       │   ├── sem.png
+│       │   ├── soltau_osm.png
+│       │   ├── soltau.png
+│       │   ├── vektormodell.png
+│       │   ├── WC_Abb_1.jpg
+│       │   ├── WC_Abb_1.png
+│       │   ├── WC_Abb_2.jpg
+│       │   ├── WC_Abb_2.png
+│       │   ├── WC_Abb_3.jpg
+│       │   ├── WC_Abb_3.png
+│       │   ├── WC_Abb_4.jpg
+│       │   ├── WC_Abb_4.png
+│       │   ├── WC_Abb_5.png
+│       │   ├── WC_Abb_6.png
+│       │   ├── WC_Abb_7.png
+│       │   └── zeitstrahl.png
+│       ├── index.html
+│       ├── multimedia
+│       └── text
+│           ├── GISBScL1.xml
+│           └── GISBScL1.xmltttt
+├── GISBScL2
+│   └── de
+│       ├── html
+│       │   ├── adlcp_rootv1p2.xsd
+│       │   ├── GISBScL2_bibliography.html
+│       │   ├── GISBScL2_glossary.html
+│       │   ├── GISBScL2_metadata.html
+│       │   ├── GISBSC_UE2a_furtherReading.html
+│       │   ├── GISBSC_UE2a_summary.html
+│       │   ├── GISBSC_UE2a_UE_WC.html
+│       │   ├── GISBSC_UE2a_U_lo1.html
+│       │   ├── GISBSC_UE2a_U_lo2.html
+│       │   ├── GISBSC_UE2a_U_lo5.html
+│       │   ├── GISBSC_UE2b_summary.html
+│       │   ├── GISBSC_UE2b_U_lo1.html
+│       │   ├── GISBSC_UE2b_U_lo2.html
+│       │   ├── GISBSC_UE2b_U_lo3.html
+│       │   ├── GISBSC_UE2b_U_lo4.html
+│       │   ├── GISBSC_UE2b_WC_VL.html
+│       │   ├── GISBSc_VL2a_summary.html
+│       │   ├── GISBSc_VL2a_V_lo1.html
+│       │   ├── GISBSc_VL2a_V_lo2.html
+│       │   ├── GISBSc_VL2a_V_lo3.html
+│       │   ├── GISBSc_VL2a_V_lo4.html
+│       │   ├── GISBSc_VL2a_V_lo5.html
+│       │   ├── GISBSc_VL2a_V_lo7.html
+│       │   ├── GISBSc_VL2b_summary.html
+│       │   ├── GISBSc_VL2b_V_lo10.html
+│       │   ├── GISBSc_VL2b_V_lo1.html
+│       │   ├── GISBSc_VL2b_V_lo2.html
+│       │   ├── GISBSc_VL2b_V_lo3.html
+│       │   ├── GISBSc_VL2b_V_lo4.html
+│       │   ├── GISBSc_VL2b_W_check_VL.html
+│       │   ├── imscp_rootv1p1p2.xsd
+│       │   ├── imsmd_rootv1p2p1.xsd
+│       │   ├── ims_xml.xsd
+│       │   ├── index.html
+│       │   ├── scorm_generic.js
+│       │   ├── selfCheck.css
+│       │   ├── selfCheck.js
+│       │   ├── unit_GISBSC_UE2a.html
+│       │   ├── unit_GISBSC_UE2b.html
+│       │   ├── unit_GISBSc_VL2a.html
+│       │   ├── unit_GISBSc_VL2b.html
+│       │   └── wz_tooltip.js
+│       ├── image
+│       │   ├── 1NF.gif
+│       │   ├── 2NF.gif
+│       │   ├── 3nested_1.jpg
+│       │   ├── 3nested_2.jpg
+│       │   ├── 3nested_3.jpg
+│       │   ├── 3nested_4.jpg
+│       │   ├── 3nested_5.jpg
+│       │   ├── 3nested.jpg
+│       │   ├── 3NF.gif
+│       │   ├── 4_5_6_2_7_1.jpg
+│       │   ├── 4.jpg
+│       │   ├── 5_6_2_7_1.jpg
+│       │   ├── 6367.strip.zoom.gif
+│       │   ├── 7.jpg
+│       │   ├── abfrage2.jpg
+│       │   ├── abfrage.jpg
+│       │   ├── adjacency.jpg
+│       │   ├── analogie.gif
+│       │   ├── and.jpg
+│       │   ├── arcgis_abfrage.jpg
+│       │   ├── arcview_abfrage.jpg
+│       │   ├── arcview_abfrage_small.jpg
+│       │   ├── area_vector.jpg
+│       │   ├── area_vektor.fla
+│       │   ├── area_vektor.jpg
+│       │   ├── area_vektor.swf
+│       │   ├── arthurs_pass_nz.jpg
+│       │   ├── arthurs_pass_nz_kl.jpg
+│       │   ├── auschnittgisoberflaeche.png
+│       │   ├── Ausdehnung.jpg
+│       │   ├── blankForTable.gif
+│       │   ├── blankForTable.png
+│       │   ├── blankForTable.tif
+│       │   ├── buffer_raster2.jpg
+│       │   ├── buffer_raster_line.fla
+│       │   ├── buffer_raster_line.jpg
+│       │   ├── buffer_raster_line.swf
+│       │   ├── buffer_raster_point.fla
+│       │   ├── buffer_raster_point.jpg
+│       │   ├── buffer_raster_point.swf
+│       │   ├── buffer_raster_poly.fla
+│       │   ├── buffer_raster_poly.jpg
+│       │   ├── buffer_raster_poly.swf
+│       │   ├── buffer_vector_line.fla
+│       │   ├── buffer_vector_line.jpg
+│       │   ├── buffer_vector_line.swf
+│       │   ├── buffer_vector_point.fla
+│       │   ├── buffer_vector_point.jpg
+│       │   ├── buffer_vector_point.swf
+│       │   ├── buffer_vector_poly.fla
+│       │   ├── buffer_vector_poly.jpg
+│       │   ├── buffer_vector_poly.swf
+│       │   ├── by_fluss_intersect.jpg
+│       │   ├── center_in.jpg
+│       │   ├── closest.fla
+│       │   ├── closest.jpg
+│       │   ├── closest.swf
+│       │   ├── code_createTable.gif
+│       │   ├── codeoberflaeche.png
+│       │   ├── contain.jpg
+│       │   ├── contains
+│       │   ├── contains1.jpg
+│       │   ├── contains2.jpg
+│       │   ├── contains3.jpg
+│       │   ├── contains_I4.jpg
+│       │   ├── contains_I9.jpg
+│       │   ├── contains.jpg
+│       │   ├── contains_matrix_4.jpg
+│       │   ├── contains_matrix.jpg
+│       │   ├── covered_by1.jpg
+│       │   ├── covered_by2.jpg
+│       │   ├── covered_by_I4.jpg
+│       │   ├── covered_by_I9.jpg
+│       │   ├── covered_by.jpg
+│       │   ├── covered_by_matrix4.jpg
+│       │   ├── covered_by_matrix.jpg
+│       │   ├── covers1.jpg
+│       │   ├── covers2.jpg
+│       │   ├── covers_I4.jpg
+│       │   ├── covers_I9.jpg
+│       │   ├── covers.jpg
+│       │   ├── covers_matrix_4.jpg
+│       │   ├── covers_matrix.jpg
+│       │   ├── datenbanktabelle.gif
+│       │   ├── disjoint1.jpg
+│       │   ├── disjoint_2.jpg
+│       │   ├── disjoint2.jpg
+│       │   ├── disjoint3.jpg
+│       │   ├── disjoint4.jpg
+│       │   ├── disjoint5.jpg
+│       │   ├── disjoint6.jpg
+│       │   ├── disjoint_I4.jpg
+│       │   ├── disjoint_I9.jpg
+│       │   ├── disjoint.jpg
+│       │   ├── disjoint_matrix_4.jpg
+│       │   ├── disjoint_matrix.jpg
+│       │   ├── distanz-kontext1.gif
+│       │   ├── distanz-kontext2.gif
+│       │   ├── distanz-linie-linie.gif
+│       │   ├── distanz-punkt-linie.gif
+│       │   ├── distanz-punkt-polygon.gif
+│       │   ├── distanz-punkt-punkt.gif
+│       │   ├── distpuff_linie.gif
+│       │   ├── distpuff_polygone.gif
+│       │   ├── distpuff_punkte.gif
+│       │   ├── dreischemaarchitektur.gif
+│       │   ├── equal1.jpg
+│       │   ├── equal2.jpg
+│       │   ├── equal3.jpg
+│       │   ├── equal_I4.jpg
+│       │   ├── equal_I9.jpg
+│       │   ├── equal.jpg
+│       │   ├── equal_matrix_4.jpg
+│       │   ├── equal_matrix.jpg
+│       │   ├── erklaerung_begriffe.gif
+│       │   ├── erreichbarkeit.gif
+│       │   ├── euklidische-metrik.gif
+│       │   ├── evap_flow.png
+│       │   ├── fields.jpg
+│       │   ├── formula4.jpg
+│       │   ├── formula.jpg
+│       │   ├── formularbasierteoberflaeche.png
+│       │   ├── geometry1.jpg
+│       │   ├── geometry2.jpg
+│       │   ├── geometry3.jpg
+│       │   ├── geo_thema.jpg
+│       │   ├── gis.jpg
+│       │   ├── gitta_dbms.png
+│       │   ├── holzsamm.jpg
+│       │   ├── holzsammlung.fla
+│       │   ├── holzsammlung.jpg
+│       │   ├── holzsammlung.swf
+│       │   ├── houses_fields.jpg
+│       │   ├── houses.jpg
+│       │   ├── houses_yell_2.jpg
+│       │   ├── houses_yell_in_wald.jpg
+│       │   ├── i4schema.jpg
+│       │   ├── i9schema.jpg
+│       │   ├── informationssystem.jpg
+│       │   ├── in_liegen.jpg
+│       │   ├── inside
+│       │   ├── inside1.jpg
+│       │   ├── inside2.jpg
+│       │   ├── inside3.jpg
+│       │   ├── inside_I4.jpg
+│       │   ├── inside_I9.jpg
+│       │   ├── inside.jpg
+│       │   ├── inside_matrix_4.jpg
+│       │   ├── inside_matrix.jpg
+│       │   ├── intersect1.jpg
+│       │   ├── intersect_2.jpg
+│       │   ├── intersect2.jpg
+│       │   ├── intersect3.jpg
+│       │   ├── intersect.jpg
+│       │   ├── intersect_matrix_4.jpg
+│       │   ├── intersect_matrix.jpg
+│       │   ├── Kopie von covered_by_I9.jpg
+│       │   ├── Kopie von covered_by_matrix4.jpg
+│       │   ├── Kopie von covered_by_matrix.jpg
+│       │   ├── Kopie von covers1.jpg
+│       │   ├── Kopie von schnittstelle.gif
+│       │   ├── kreis_1_2.jpg
+│       │   ├── legende.jpg
+│       │   ├── lenght.fla
+│       │   ├── lenght.swf
+│       │   ├── length.jpg
+│       │   ├── line_buffer.fla
+│       │   ├── line_buffer.jpg
+│       │   ├── line_buffer.swf
+│       │   ├── line.fla
+│       │   ├── line.jpg
+│       │   ├── line_point2.jpg
+│       │   ├── line_poly2.jpg
+│       │   ├── line_poly.jpg
+│       │   ├── line_raster.fla
+│       │   ├── line_raster.jpg
+│       │   ├── line_raster.swf
+│       │   ├── line.swf
+│       │   ├── manhattan_distanz.fla
+│       │   ├── manhattan_distanz.jpg
+│       │   ├── manhattan_distanz.swf
+│       │   ├── matrix2.png
+│       │   ├── matrix_meet_4.jpg
+│       │   ├── matrix_meet.jpg
+│       │   ├── matrix.png
+│       │   ├── meet1.jpg
+│       │   ├── meet2.jpg
+│       │   ├── meet3.jpg
+│       │   ├── meet4.jpg
+│       │   ├── meet5.jpg
+│       │   ├── meet_I4.jpg
+│       │   ├── meet_I9.jpg
+│       │   ├── meet.jpg
+│       │   ├── nested.jpg
+│       │   ├── netzwerk_hierarchie.gif
+│       │   ├── not.jpg
+│       │   ├── objektorientiert.gif
+│       │   ├── objektrelational.gif
+│       │   ├── or.jpg
+│       │   ├── overlap1.jpg
+│       │   ├── overlap2.jpg
+│       │   ├── overlap3.jpg
+│       │   ├── overlap_I4.jpg
+│       │   ├── overlap_I9.jpg
+│       │   ├── overlap.jpg
+│       │   ├── overview2.jpg
+│       │   ├── parzelle2.jpg
+│       │   ├── parzelle3.jpg
+│       │   ├── parzelle4.jpg
+│       │   ├── parzelle5.jpg
+│       │   ├── parzelle.jpg
+│       │   ├── perimeter_raster.fla
+│       │   ├── perimeter_raster.jpg
+│       │   ├── perimeter_raster.swf
+│       │   ├── pit_distanz.fla
+│       │   ├── pit_distanz.jpg
+│       │   ├── pit_distanz.swf
+│       │   ├── pit_distanz_vector.fla
+│       │   ├── pit_distanz_vector.jpg
+│       │   ├── pit_distanz_vector.swf
+│       │   ├── point_buffer.fla
+│       │   ├── point_buffer.jpg
+│       │   ├── point_buffer.swf
+│       │   ├── point.fla
+│       │   ├── point.jpg
+│       │   ├── point_poly2.jpg
+│       │   ├── point_poly.jpg
+│       │   ├── point_raster.fla
+│       │   ├── point_raster.jpg
+│       │   ├── point_raster.swf
+│       │   ├── point.swf
+│       │   ├── point_trees.jpg
+│       │   ├── point_trees_tabg.jpg
+│       │   ├── point_trees_tabt.jpg
+│       │   ├── poly_buffer.fla
+│       │   ├── poly_buffer.jpg
+│       │   ├── poly_buffer.swf
+│       │   ├── poly.fla
+│       │   ├── poly.jpg
+│       │   ├── poly_poly.jpg
+│       │   ├── poly.swf
+│       │   ├── profile.jpg
+│       │   ├── proximity2.fla
+│       │   ├── proximity2.jpg
+│       │   ├── proximity2.swf
+│       │   ├── proximity.fla
+│       │   ├── proximity.jpg
+│       │   ├── proximity.swf
+│       │   ├── pspbrwse.jbf
+│       │   ├── pspbrwse.jpg
+│       │   ├── querywizard.png
+│       │   ├── raster_area.fla
+│       │   ├── raster_area.jpg
+│       │   ├── raster_area.swf
+│       │   ├── raster_location.fla
+│       │   ├── raster_location.jpg
+│       │   ├── raster_location.swf
+│       │   ├── ref_integ.gif
+│       │   ├── relation.gif
+│       │   ├── relation.jpg
+│       │   ├── river_buff.jpg
+│       │   ├── river_houses_100.jpg
+│       │   ├── river_houses_1.jpg
+│       │   ├── river_houses_fields.jpg
+│       │   ├── river_houses.jpg
+│       │   ├── river.jpg
+│       │   ├── schemas.gif
+│       │   ├── schneidet.jpg
+│       │   ├── schnittstelle.gif
+│       │   ├── schwerpunkt.jpg
+│       │   ├── sicht1.png
+│       │   ├── sicht2.png
+│       │   ├── small_model.jpg
+│       │   ├── strasse_uebung_and.jpg
+│       │   ├── strasse_uebung_not.jpg
+│       │   ├── strasse_uebung_or.jpg
+│       │   ├── strasse_uebung_xor.jpg
+│       │   ├── tab1_1.jpg
+│       │   ├── tab1_2.jpg
+│       │   ├── tab1_3.jpg
+│       │   ├── tab1_4.jpg
+│       │   ├── tab_1.jpg
+│       │   ├── tab1.jpg
+│       │   ├── tab2_1.jpg
+│       │   ├── tab2_2.jpg
+│       │   ├── tab_2.jpg
+│       │   ├── tab2.jpg
+│       │   ├── tab3_1.jpg
+│       │   ├── tab3_2.jpg
+│       │   ├── tab3_3.jpg
+│       │   ├── tab_3.jpg
+│       │   ├── tab3.jpg
+│       │   ├── tab4_1.jpg
+│       │   ├── tab4_2.jpg
+│       │   ├── tab4_3.jpg
+│       │   ├── tab4_4.jpg
+│       │   ├── tab_4_5_6_2_7_1.jpg
+│       │   ├── tab4_5.jpg
+│       │   ├── tab_4.jpg
+│       │   ├── tab4.jpg
+│       │   ├── tab_5_6_2_7_1.jpg
+│       │   ├── tab5.jpg
+│       │   ├── tab6.jpg
+│       │   ├── tab_7.jpg
+│       │   ├── tab7.jpg
+│       │   ├── tab8.jpg
+│       │   ├── tab_act1.jpg
+│       │   ├── tab_act2.jpg
+│       │   ├── tab_act3.jpg
+│       │   ├── tab_act4.jpg
+│       │   ├── tab_besitzer.jpg
+│       │   ├── tabella_geom2.jpg
+│       │   ├── tabella_geom.jpg
+│       │   ├── tabella_them2.jpg
+│       │   ├── tabella_them.jpg
+│       │   ├── tabella_topo.jpg
+│       │   ├── tabelle.jpg
+│       │   ├── tab_parzelle2.jpg
+│       │   ├── tab_parzelle3.jpg
+│       │   ├── tab_parzelle.jpg
+│       │   ├── tab_preis.jpg
+│       │   ├── topo_geom_tabg2.jpg
+│       │   ├── topo_geom_tabg.jpg
+│       │   ├── topo_geom_tabt.jpg
+│       │   ├── topo_geom_tabto.jpg
+│       │   ├── topo_geom_them.jpg
+│       │   ├── trennung_Daten_Anwendung.gif
+│       │   ├── vector_location.fla
+│       │   ├── vector_location.jpg
+│       │   ├── vector_location.swf
+│       │   ├── vertical_arrow.jpg
+│       │   ├── voll_enhaelt.jpg
+│       │   ├── wahr_falsch.jpg
+│       │   ├── wald_adjacency.jpg
+│       │   ├── wald_feld_houses.jpg
+│       │   ├── wald_feld.jpg
+│       │   ├── WC_Abb_1.jpg
+│       │   ├── WC_Abb_1.png
+│       │   ├── WC_Abb_2.jpg
+│       │   ├── WC_Abb_2.png
+│       │   ├── WC_Abb_3.jpg
+│       │   ├── WC_Abb_3.png
+│       │   ├── widerspruchsfreiheit.gif
+│       │   ├── wo.fla
+│       │   ├── wo.jpg
+│       │   ├── wo.swf
+│       │   └── xor.jpg
+│       ├── index.html
+│       ├── multimedia
+│       │   ├── 3nested_1.fla
+│       │   ├── 3nested_1.jpg
+│       │   ├── 3nested_1.swf
+│       │   ├── 3nested_2.fla
+│       │   ├── 3nested_2.jpg
+│       │   ├── 3nested_2.swf
+│       │   ├── 3nested_3.fla
+│       │   ├── 3nested_3.jpg
+│       │   ├── 3nested_3.swf
+│       │   ├── 3nested_4.fla
+│       │   ├── 3nested_4.jpg
+│       │   ├── 3nested_4.swf
+│       │   ├── 3nested_5.fla
+│       │   ├── 3nested_5.jpg
+│       │   ├── 3nested_5.swf
+│       │   ├── 3nested.fla
+│       │   ├── 3nested.jpg
+│       │   ├── 3nested.swf
+│       │   ├── 4_5_6_2_7_1.fla
+│       │   ├── 4_5_6_2_7_1.jpg
+│       │   ├── 4_5_6_2_7_1.swf
+│       │   ├── 4.fla
+│       │   ├── 4.jpg
+│       │   ├── 4.swf
+│       │   ├── 5_6_2_7_1.fla
+│       │   ├── 5_6_2_7_1.jpg
+│       │   ├── 5_6_2_7_1.swf
+│       │   ├── 7.fla
+│       │   ├── 7.jpg
+│       │   ├── 7.swf
+│       │   ├── abfrage2.fla
+│       │   ├── abfrage2.swf
+│       │   ├── AlterTable
+│       │   │   ├── ClterTable.ppt
+│       │   │   ├── scene1+5.PNG
+│       │   │   ├── scene2.PNG
+│       │   │   ├── scene3.PNG
+│       │   │   └── scene4.PNG
+│       │   ├── and.fla
+│       │   ├── and.jpg
+│       │   ├── and.swf
+│       │   ├── arcgis_abfrage.jpg
+│       │   ├── arcview_abfrage.jpg
+│       │   ├── arcview_abfrage_small.jpg
+│       │   ├── area_vektor.fla
+│       │   ├── area_vektor.swf
+│       │   ├── aufbau_informationssystem.fla
+│       │   ├── aufbau_informationssystem.swf
+│       │   ├── BooleanOverlay.fla
+│       │   ├── BooleanOverlay.swf
+│       │   ├── Bool_VENN.fla
+│       │   ├── Bool_VENN.swf
+│       │   ├── buffer_raster_line.fla
+│       │   ├── buffer_raster_line.swf
+│       │   ├── buffer_raster_point.fla
+│       │   ├── buffer_raster_point.swf
+│       │   ├── buffer_raster_poly.fla
+│       │   ├── buffer_raster_poly.swf
+│       │   ├── buffer_vector_line.fla
+│       │   ├── buffer_vector_line.swf
+│       │   ├── buffer_vector_point.fla
+│       │   ├── buffer_vector_point.swf
+│       │   ├── buffer_vector_poly.fla
+│       │   ├── buffer_vector_poly.swf
+│       │   ├── by_fluss_intersect.fla
+│       │   ├── by_fluss_intersect.swf
+│       │   ├── closest.fla
+│       │   ├── closest.swf
+│       │   ├── contains1.fla
+│       │   ├── contains1.swf
+│       │   ├── contains2.fla
+│       │   ├── contains2.swf
+│       │   ├── contains3.fla
+│       │   ├── contains3.swf
+│       │   ├── contains.fla
+│       │   ├── contains_I4.fla
+│       │   ├── contains_I4.swf
+│       │   ├── contains_I9.fla
+│       │   ├── contains_I9.swf
+│       │   ├── contains.swf
+│       │   ├── covered_by1.fla
+│       │   ├── covered_by1.swf
+│       │   ├── covered_by2.fla
+│       │   ├── covered_by2.swf
+│       │   ├── covered_by.fla
+│       │   ├── covered_by_I4.fla
+│       │   ├── covered_by_I4.swf
+│       │   ├── covered_by_I9.fla
+│       │   ├── covered_by_I9.swf
+│       │   ├── covered_by.swf
+│       │   ├── covers1.fla
+│       │   ├── covers1.swf
+│       │   ├── covers2.fla
+│       │   ├── covers2.swf
+│       │   ├── covers.fla
+│       │   ├── covers_I4.fla
+│       │   ├── covers_I4.swf
+│       │   ├── covers_I9.fla
+│       │   ├── covers_I9.swf
+│       │   ├── covers.swf
+│       │   ├── CreateTable
+│       │   │   ├── createTable.ppt
+│       │   │   ├── scene1-2.PNG
+│       │   │   ├── scene3.PNG
+│       │   │   ├── scene4.PNG
+│       │   │   ├── scene5.PNG
+│       │   │   └── scene6.PNG
+│       │   ├── dateibasiert_neu.fla
+│       │   ├── dateibasiert_neu.swf
+│       │   ├── disjoint1.fla
+│       │   ├── disjoint1.swf
+│       │   ├── disjoint2.fla
+│       │   ├── disjoint2.swf
+│       │   ├── disjoint3.fla
+│       │   ├── disjoint3.swf
+│       │   ├── disjoint4.fla
+│       │   ├── disjoint4.swf
+│       │   ├── disjoint5.fla
+│       │   ├── disjoint5.swf
+│       │   ├── disjoint6.fla
+│       │   ├── disjoint6.swf
+│       │   ├── disjoint.fla
+│       │   ├── disjoint_I4.fla
+│       │   ├── disjoint_I4.swf
+│       │   ├── disjoint_I9.fla
+│       │   ├── disjoint_I9.swf
+│       │   ├── disjoint.swf
+│       │   ├── distpuff_erstellen.fla
+│       │   ├── distpuff_erstellen.swf
+│       │   ├── distpuff_overlay.fla
+│       │   ├── distpuff_overlay.swf
+│       │   ├── disttrans_reclassify.fla
+│       │   ├── disttrans_reclassify.swf
+│       │   ├── disttrans_zone.fla
+│       │   ├── disttrans_zone.swf
+│       │   ├── drag_drop_architektur_mod.fla
+│       │   ├── drag_drop_architektur_mod.swf
+│       │   ├── dragDrop_test_informationssystemaufbau.fla
+│       │   ├── dragDrop_test_informationssystemaufbau.swf
+│       │   ├── equal1.fla
+│       │   ├── equal1.swf
+│       │   ├── equal2.fla
+│       │   ├── equal2.swf
+│       │   ├── equal3.fla
+│       │   ├── equal3.swf
+│       │   ├── equal.fla
+│       │   ├── equal_I4.fla
+│       │   ├── equal_I4.swf
+│       │   ├── equal_I9.fla
+│       │   ├── equal_I9.swf
+│       │   ├── equal Report.txt
+│       │   ├── equal.swf
+│       │   ├── erreichbarkeit.fla
+│       │   ├── erreichbarkeit.swf
+│       │   ├── fields.fla
+│       │   ├── fields.swf
+│       │   ├── geo_thema.fla
+│       │   ├── geo_thema.swf
+│       │   ├── holzsammlung.fla
+│       │   ├── holzsammlung.swf
+│       │   ├── houses_fields.fla
+│       │   ├── houses_fields.swf
+│       │   ├── houses.fla
+│       │   ├── houses.swf
+│       │   ├── houses_yell_2.fla
+│       │   ├── houses_yell_2.swf
+│       │   ├── houses_yell_in_wald.fla
+│       │   ├── houses_yell_in_wald.swf
+│       │   ├── informationssystem.fla
+│       │   ├── informationssystem.swf
+│       │   ├── in_liegen.fla
+│       │   ├── in_liegen.swf
+│       │   ├── inside1.fla
+│       │   ├── inside1.swf
+│       │   ├── inside2.fla
+│       │   ├── inside2.swf
+│       │   ├── inside3.fla
+│       │   ├── inside3.swf
+│       │   ├── inside.fla
+│       │   ├── inside_I4.fla
+│       │   ├── inside_I4.swf
+│       │   ├── inside_I9.fla
+│       │   ├── inside_I9.swf
+│       │   ├── inside.swf
+│       │   ├── intersect1.fla
+│       │   ├── intersect1.swf
+│       │   ├── intersect2.fla
+│       │   ├── intersect2.swf
+│       │   ├── intersect3.fla
+│       │   ├── intersect3.swf
+│       │   ├── Kopie von strasse_uebung_not.fla
+│       │   ├── Kopie von strasse_uebung_not.jpg
+│       │   ├── Kopie von strasse_uebung_not.swf
+│       │   ├── Kopie von strasse_uebung_or.fla
+│       │   ├── Kopie von strasse_uebung_or.jpg
+│       │   ├── Kopie von strasse_uebung_or.swf
+│       │   ├── Kopie von strasse_uebung_xor.fla
+│       │   ├── Kopie von strasse_uebung_xor.jpg
+│       │   ├── Kopie von strasse_uebung_xor.swf
+│       │   ├── kreis_1_2.fla
+│       │   ├── kreis_1_2.jpg
+│       │   ├── kreis_1_2.swf
+│       │   ├── lenght.fla
+│       │   ├── lenght.swf
+│       │   ├── line_buffer.fla
+│       │   ├── line_buffer.swf
+│       │   ├── line.fla
+│       │   ├── line_raster.fla
+│       │   ├── line_raster.swf
+│       │   ├── line.swf
+│       │   ├── manhattan_distanz.fla
+│       │   ├── manhattan_distanz.swf
+│       │   ├── meet1.fla
+│       │   ├── meet1.swf
+│       │   ├── meet2.fla
+│       │   ├── meet2.swf
+│       │   ├── meet3.fla
+│       │   ├── meet3.swf
+│       │   ├── meet4.fla
+│       │   ├── meet4.swf
+│       │   ├── meet5.fla
+│       │   ├── meet5.swf
+│       │   ├── meet.fla
+│       │   ├── meet_I4.fla
+│       │   ├── meet_I4.swf
+│       │   ├── meet_I9.fla
+│       │   ├── meet_I9.swf
+│       │   ├── meet.swf
+│       │   ├── nachteile.fla
+│       │   ├── nachteile.swf
+│       │   ├── nested.jpg
+│       │   ├── not.fla
+│       │   ├── not.jpg
+│       │   ├── not.swf
+│       │   ├── or.fla
+│       │   ├── or.jpg
+│       │   ├── or.swf
+│       │   ├── overlap1.fla
+│       │   ├── overlap1.swf
+│       │   ├── overlap2.fla
+│       │   ├── overlap2.swf
+│       │   ├── overlap3.fla
+│       │   ├── overlap3.swf
+│       │   ├── overlap.fla
+│       │   ├── overlap_I4.fla
+│       │   ├── overlap_I4.swf
+│       │   ├── overlap_I9.fla
+│       │   ├── overlap_I9.swf
+│       │   ├── overlap.swf
+│       │   ├── overview2.fla
+│       │   ├── overview2.swf
+│       │   ├── parzelle2.fla
+│       │   ├── parzelle2.jpg
+│       │   ├── parzelle2.swf
+│       │   ├── parzelle3.fla
+│       │   ├── parzelle3.jpg
+│       │   ├── parzelle3.swf
+│       │   ├── parzelle4.fla
+│       │   ├── parzelle4.jpg
+│       │   ├── parzelle4.swf
+│       │   ├── parzelle5.fla
+│       │   ├── parzelle5.jpg
+│       │   ├── parzelle5.swf
+│       │   ├── parzelle.fla
+│       │   ├── parzelle.jpg
+│       │   ├── parzelle.swf
+│       │   ├── perimeter_raster.fla
+│       │   ├── perimeter_raster.swf
+│       │   ├── pit_distanz.fla
+│       │   ├── pit_distanz.swf
+│       │   ├── pit_distanz_vector.fla
+│       │   ├── pit_distanz_vector.swf
+│       │   ├── point_buffer.fla
+│       │   ├── point_buffer.swf
+│       │   ├── point.fla
+│       │   ├── point_raster.fla
+│       │   ├── point_raster.swf
+│       │   ├── point.swf
+│       │   ├── point_trees.fla
+│       │   ├── point_trees.swf
+│       │   ├── point_trees_tabg.fla
+│       │   ├── point_trees_tabg.swf
+│       │   ├── point_trees_tabt.fla
+│       │   ├── point_trees_tabt.swf
+│       │   ├── poly_buffer.fla
+│       │   ├── poly_buffer.swf
+│       │   ├── poly.fla
+│       │   ├── poly.swf
+│       │   ├── proximity2.fla
+│       │   ├── proximity2.swf
+│       │   ├── proximity.fla
+│       │   ├── proximity.swf
+│       │   ├── pspbrwse.jbf
+│       │   ├── pspbrwse.jpg
+│       │   ├── raster_area.fla
+│       │   ├── raster_area.swf
+│       │   ├── raster_location.fla
+│       │   ├── raster_location.swf
+│       │   ├── relation.fla
+│       │   ├── relation.swf
+│       │   ├── river_buff.fla
+│       │   ├── river_buff.swf
+│       │   ├── river.fla
+│       │   ├── river_houses_100.fla
+│       │   ├── river_houses_100.swf
+│       │   ├── river_houses_1.fla
+│       │   ├── river_houses_1.swf
+│       │   ├── river_houses.fla
+│       │   ├── river_houses.swf
+│       │   ├── river.swf
+│       │   ├── schneidet.fla
+│       │   ├── schneidet.swf
+│       │   ├── schwerpunkt.fla
+│       │   ├── schwerpunkt.swf
+│       │   ├── sichten.fla
+│       │   ├── sichten.swf
+│       │   ├── small_model.fla
+│       │   ├── small_model.jpg
+│       │   ├── small_model.swf
+│       │   ├── SQL_alter.fla
+│       │   ├── SQL_alter.html
+│       │   ├── SQL_alter.swf
+│       │   ├── SQL_Basic1b.fla
+│       │   ├── SQL_Basic1b.html
+│       │   ├── SQL_Basic1b.swf
+│       │   ├── SQL_Basic2.fla
+│       │   ├── SQL_Basic2.html
+│       │   ├── SQL_Basic2.swf
+│       │   ├── SQL_Basic3.fla
+│       │   ├── SQL_Basic3.html
+│       │   ├── SQL_Basic3.swf
+│       │   ├── SQL_create.swf
+│       │   ├── SQL_delete.fla
+│       │   ├── SQL_delete.html
+│       │   ├── SQL_delete.swf
+│       │   ├── SQL-SelfAss2.fla
+│       │   ├── SQL-SelfAss2.html
+│       │   ├── SQL-SelfAss2.mdb
+│       │   ├── SQL-SelfAss2.swf
+│       │   ├── SQL-SelfAss2Tut.mdb
+│       │   ├── strasse_uebung_and.fla
+│       │   ├── strasse_uebung_and.jpg
+│       │   ├── strasse_uebung_and.swf
+│       │   ├── strasse_uebung_not.fla
+│       │   ├── strasse_uebung_not.jpg
+│       │   ├── strasse_uebung_not.swf
+│       │   ├── strasse_uebung_or.fla
+│       │   ├── strasse_uebung_or.jpg
+│       │   ├── strasse_uebung_or.swf
+│       │   ├── strasse_uebung_xor.fla
+│       │   ├── strasse_uebung_xor.jpg
+│       │   ├── strasse_uebung_xor.swf
+│       │   ├── tab1_1.jpg
+│       │   ├── tab1_2.jpg
+│       │   ├── tab1_3.jpg
+│       │   ├── tab1_4.jpg
+│       │   ├── tab2_1.jpg
+│       │   ├── tab2_2.jpg
+│       │   ├── tab_4_5_6_2_7_1.jpg
+│       │   ├── tab_4.jpg
+│       │   ├── tab_5_6_2_7_1.jpg
+│       │   ├── tab_7.jpg
+│       │   ├── tab_besitzer.jpg
+│       │   ├── tabelle.fla
+│       │   ├── tabellenkalkulationVsDbms.fla
+│       │   ├── tabellenkalkulationVsDbms.swf
+│       │   ├── tabelle.swf
+│       │   ├── tab_parzelle2.jpg
+│       │   ├── tab_parzelle3.jpg
+│       │   ├── tab_parzelle.jpg
+│       │   ├── tab_preis.jpg
+│       │   ├── topo_geom_tabg2.fla
+│       │   ├── topo_geom_tabg2.html
+│       │   ├── topo_geom_tabg2.swf
+│       │   ├── topo_geom_tabg.fla
+│       │   ├── topo_geom_tabg.swf
+│       │   ├── topo_geom_tabt.fla
+│       │   ├── topo_geom_tabto.fla
+│       │   ├── topo_geom_tabto.swf
+│       │   ├── topo_geom_tabt.swf
+│       │   ├── topo_geom_them.fla
+│       │   ├── topo_geom_them.swf
+│       │   ├── transaktion_konten.fla
+│       │   ├── transaktion_konten.swf
+│       │   ├── VectorBooleanOverlay.fla
+│       │   ├── VectorBooleanOverlay.swf
+│       │   ├── vector_location.fla
+│       │   ├── vector_location.swf
+│       │   ├── vertical_arrow.fla
+│       │   ├── vertical_arrow.jpg
+│       │   ├── vertical_arrow.swf
+│       │   ├── voll_enhaelt.fla
+│       │   ├── voll_enhaelt.swf
+│       │   ├── vorteile.fla
+│       │   ├── vorteile.swf
+│       │   ├── wahr_falsch.fla
+│       │   ├── wahr_falsch.jpg
+│       │   ├── wahr_falsch.swf
+│       │   ├── wald_adjacency.fla
+│       │   ├── wald_adjacency.swf
+│       │   ├── wald_feld.fla
+│       │   ├── wald_feld_houses.fla
+│       │   ├── wald_feld_houses.swf
+│       │   ├── wald_feld.swf
+│       │   ├── wo.fla
+│       │   ├── wortzuordnung_einfach.fla
+│       │   ├── wortzuordnung_einfach.swf
+│       │   ├── wo.swf
+│       │   ├── xor.fla
+│       │   ├── xor.jpg
+│       │   └── xor.swf
+│       └── text
+│           └── GISBScL2.xml
+├── GISBScL3
+│   └── de
+│       ├── html
+│       │   ├── adlcp_rootv1p2.xsd
+│       │   ├── GISBScL3_bibliography.html
+│       │   ├── GISBScL3_glossary.html
+│       │   ├── GISBScL3_metadata.html
+│       │   ├── GISBSc_UE3_U_lo1a.html
+│       │   ├── GISBSc_UE3_U_lo1.html
+│       │   ├── GISBSc_UE3_U_lo2a.html
+│       │   ├── GISBSc_UE3_U_lo2.html
+│       │   ├── GISBSc_UE3_U_lo3.html
+│       │   ├── GISBSc_UE3_U_lo4.html
+│       │   ├── GISBSc_UE3_WC_UE.html
+│       │   ├── imscp_rootv1p1p2.xsd
+│       │   ├── imsmd_rootv1p2p1.xsd
+│       │   ├── ims_xml.xsd
+│       │   ├── index.html
+│       │   ├── scorm_generic.js
+│       │   ├── selfCheck.css
+│       │   ├── selfCheck.js
+│       │   ├── stylesheet.css
+│       │   ├── unit_GISBSc_UE3.html
+│       │   ├── unit_VL3.html
+│       │   ├── VL3_selfAssessment9.html
+│       │   ├── VL3_V_lo1.html
+│       │   ├── VL3_V_lo2.html
+│       │   ├── VL3_V_lo3.html
+│       │   ├── VL3_V_lo4.html
+│       │   ├── VL3_V_lo5.html
+│       │   ├── VL3_V_lo6.html
+│       │   ├── VL3_V_lo7.html
+│       │   ├── VL3_V_lo8.html
+│       │   └── wz_tooltip.js
+│       ├── image
+│       │   ├── 01_Var_Cloud.gif
+│       │   ├── 02_Var_experimentell.gif
+│       │   ├── 03_Var_theoretisch.gif
+│       │   ├── 1NF.gif
+│       │   ├── 2NF.gif
+│       │   ├── 3nested_1.jpg
+│       │   ├── 3nested_2.jpg
+│       │   ├── 3nested_3.jpg
+│       │   ├── 3nested_4.jpg
+│       │   ├── 3nested_5.jpg
+│       │   ├── 3nested.jpg
+│       │   ├── 3NF.gif
+│       │   ├── 4_5_6_2_7_1.jpg
+│       │   ├── 4.jpg
+│       │   ├── 5_6_2_7_1.jpg
+│       │   ├── 7.jpg
+│       │   ├── abfrage2.jpg
+│       │   ├── abfrage.jpg
+│       │   ├── adjacency.jpg
+│       │   ├── albis.gif
+│       │   ├── albis_thumb.gif
+│       │   ├── analogie.gif
+│       │   ├── and.jpg
+│       │   ├── arcgis_abfrage.jpg
+│       │   ├── arcview_abfrage.jpg
+│       │   ├── arcview_abfrage_small.jpg
+│       │   ├── area_vector.jpg
+│       │   ├── area_vektor.fla
+│       │   ├── area_vektor.jpg
+│       │   ├── area_vektor.swf
+│       │   ├── arthurs_pass_nz.jpg
+│       │   ├── arthurs_pass_nz_kl.jpg
+│       │   ├── atmo_refraction_clarify.gif
+│       │   ├── atmo_refraction_formula.gif
+│       │   ├── auschnittgisoberflaeche.png
+│       │   ├── Ausdehnung.jpg
+│       │   ├── beta-index-bsp.gif
+│       │   ├── beta-index.gif
+│       │   ├── blankForTable.gif
+│       │   ├── blankForTable.png
+│       │   ├── blankForTable.tif
+│       │   ├── buffer_raster2.jpg
+│       │   ├── buffer_raster_line.fla
+│       │   ├── buffer_raster_line.jpg
+│       │   ├── buffer_raster_line.swf
+│       │   ├── buffer_raster_point.fla
+│       │   ├── buffer_raster_point.jpg
+│       │   ├── buffer_raster_point.swf
+│       │   ├── buffer_raster_poly.fla
+│       │   ├── buffer_raster_poly.jpg
+│       │   ├── buffer_raster_poly.swf
+│       │   ├── buffer_vector_line.fla
+│       │   ├── buffer_vector_line.jpg
+│       │   ├── buffer_vector_line.swf
+│       │   ├── buffer_vector_point.fla
+│       │   ├── buffer_vector_point.jpg
+│       │   ├── buffer_vector_point.swf
+│       │   ├── buffer_vector_poly.fla
+│       │   ├── buffer_vector_poly.jpg
+│       │   ├── buffer_vector_poly.swf
+│       │   ├── by_fluss_intersect.jpg
+│       │   ├── Cast-shadow-and-back-facing.gif
+│       │   ├── catchment.jpg
+│       │   ├── catchment_thumb.jpg
+│       │   ├── center_in.jpg
+│       │   ├── chile_altiplano_putre_lluta_strasse_5289.jpg
+│       │   ├── CH_Precip_Example_for_Intro.jpg
+│       │   ├── civilEngineering.jpg
+│       │   ├── closest.fla
+│       │   ├── closest.jpg
+│       │   ├── closest.swf
+│       │   ├── code_createTable.gif
+│       │   ├── codeoberflaeche.png
+│       │   ├── computing_los.gif
+│       │   ├── computing_los.png
+│       │   ├── contain.jpg
+│       │   ├── contains
+│       │   ├── contains1.jpg
+│       │   ├── contains2.jpg
+│       │   ├── contains3.jpg
+│       │   ├── contains_I4.jpg
+│       │   ├── contains_I9.jpg
+│       │   ├── contains.jpg
+│       │   ├── contains_matrix_4.jpg
+│       │   ├── contains_matrix.jpg
+│       │   ├── correcting_formula.gif
+│       │   ├── covered_by1.jpg
+│       │   ├── covered_by2.jpg
+│       │   ├── covered_by_I4.jpg
+│       │   ├── covered_by_I9.jpg
+│       │   ├── covered_by.jpg
+│       │   ├── covered_by_matrix4.jpg
+│       │   ├── covered_by_matrix.jpg
+│       │   ├── covers1.jpg
+│       │   ├── covers2.jpg
+│       │   ├── covers_I4.jpg
+│       │   ├── covers_I9.jpg
+│       │   ├── covers.jpg
+│       │   ├── covers_matrix_4.jpg
+│       │   ├── covers_matrix.jpg
+│       │   ├── D8Algorithm.gif
+│       │   ├── D8Algorithm.jpg
+│       │   ├── datenbanktabelle.gif
+│       │   ├── d.gif
+│       │   ├── diameter1.gif
+│       │   ├── diameter2.gif
+│       │   ├── directSolarRadiation_formula.gif
+│       │   ├── directSolarRadiation_schema.gif
+│       │   ├── disjoint1.jpg
+│       │   ├── disjoint_2.jpg
+│       │   ├── disjoint2.jpg
+│       │   ├── disjoint3.jpg
+│       │   ├── disjoint4.jpg
+│       │   ├── disjoint5.jpg
+│       │   ├── disjoint6.jpg
+│       │   ├── disjoint_I4.jpg
+│       │   ├── disjoint_I9.jpg
+│       │   ├── disjoint.jpg
+│       │   ├── disjoint_matrix_4.jpg
+│       │   ├── disjoint_matrix.jpg
+│       │   ├── distanz-kontext1.gif
+│       │   ├── distanz-kontext2.gif
+│       │   ├── distanz-linie-linie.gif
+│       │   ├── distanz-punkt-linie.gif
+│       │   ├── distanz-punkt-polygon.gif
+│       │   ├── distanz-punkt-punkt.gif
+│       │   ├── distpuff_linie.gif
+│       │   ├── distpuff_polygone.gif
+│       │   ├── distpuff_punkte.gif
+│       │   ├── d.png
+│       │   ├── dreischemaarchitektur.gif
+│       │   ├── earth_curvature_clarify.gif
+│       │   ├── earth_curvature_formula.gif
+│       │   ├── e.gif
+│       │   ├── equal1.jpg
+│       │   ├── equal2.jpg
+│       │   ├── equal3.jpg
+│       │   ├── equal_I4.jpg
+│       │   ├── equal_I9.jpg
+│       │   ├── equal.jpg
+│       │   ├── equal_matrix_4.jpg
+│       │   ├── equal_matrix.jpg
+│       │   ├── erklaerung_begriffe.gif
+│       │   ├── erreichbarkeit.gif
+│       │   ├── euklidische-metrik.gif
+│       │   ├── exakte_interpolation.jpg
+│       │   ├── Example_kriging.gif
+│       │   ├── ExtracTopoOb-catchment.png
+│       │   ├── ExtracTopoOb-catchment-thumb.png
+│       │   ├── ExtracTopoOb-DGM.png
+│       │   ├── ExtracTopoOb-DGM-thumb.png
+│       │   ├── ExtracTopoOb-Falllinie.png
+│       │   ├── ExtracTopoOb-Falllinie-thumb.png
+│       │   ├── ExtracTopoOb-PauschalG.png
+│       │   ├── ExtracTopoOb-Profil.png
+│       │   ├── ExtracTopoOb-terrainMatters.jpg
+│       │   ├── f.gif
+│       │   ├── fields.jpg
+│       │   ├── finitdiff.gif
+│       │   ├── flowaccumulation2_clarify.gif
+│       │   ├── flowdirection_grid.gif
+│       │   ├── flowDirection_look.gif
+│       │   ├── flowdirection_TIN.gif
+│       │   ├── formelableitung.gif
+│       │   ├── formelexposition.gif
+│       │   ├── formelneigung.gif
+│       │   ├── formula
+│       │   │   ├── aspect_a.png
+│       │   │   ├── aspect_b.png
+│       │   │   ├── aspect.png
+│       │   │   ├── d.png
+│       │   │   ├── e.png
+│       │   │   ├── exposition.png
+│       │   │   ├── f.png
+│       │   │   ├── g.png
+│       │   │   ├── h.png
+│       │   │   ├── neigung_dx.png
+│       │   │   ├── neigung_dy.png
+│       │   │   ├── neigung.png
+│       │   │   ├── plankurvatur.png
+│       │   │   ├── profilkurvatur.png
+│       │   │   └── slope.png
+│       │   ├── formula1.gif
+│       │   ├── formula2.gif
+│       │   ├── formula3.gif
+│       │   ├── formula4.gif
+│       │   ├── formula4.jpg
+│       │   ├── formula5.gif
+│       │   ├── formula6.gif
+│       │   ├── formula7.gif
+│       │   ├── formula8.gif
+│       │   ├── formula.jpg
+│       │   ├── formularbasierteoberflaeche.png
+│       │   ├── geometry1.jpg
+│       │   ├── geometry2.jpg
+│       │   ├── geometry3.jpg
+│       │   ├── Geomorphomet-hsc.png
+│       │   ├── geo_thema.jpg
+│       │   ├── g.gif
+│       │   ├── gis.jpg
+│       │   ├── gitta_dbms.png
+│       │   ├── globale_interpolation.gif
+│       │   ├── graph1A.gif
+│       │   ├── graph1B.gif
+│       │   ├── graph1C.gif
+│       │   ├── graph1D.gif
+│       │   ├── graph1E.gif
+│       │   ├── graph1F.gif
+│       │   ├── graph1G.gif
+│       │   ├── graph1H.gif
+│       │   ├── graph1I.gif
+│       │   ├── graph1J.gif
+│       │   ├── graph1K.gif
+│       │   ├── graph_mtrx1.gif
+│       │   ├── graph_mtrx2.gif
+│       │   ├── graph_topo.gif
+│       │   ├── heron_act.gif
+│       │   ├── Heron_act_solution.gif
+│       │   ├── h.gif
+│       │   ├── Hidden-Surface-Removal.gif
+│       │   ├── hillshade.gif
+│       │   ├── holzsamm.jpg
+│       │   ├── holzsammlung.fla
+│       │   ├── holzsammlung.jpg
+│       │   ├── holzsammlung.swf
+│       │   ├── houses_fields.jpg
+│       │   ├── houses.jpg
+│       │   ├── houses_yell_2.jpg
+│       │   ├── houses_yell_in_wald.jpg
+│       │   ├── i4schema.jpg
+│       │   ├── i9schema.jpg
+│       │   ├── IDW_BullEyes.gif
+│       │   ├── IDW_Formula_default.gif
+│       │   ├── IDW_Formula.gif
+│       │   ├── idw.jpg
+│       │   ├── IDW_Result_CH.gif
+│       │   ├── IDW_Shepard.gif
+│       │   ├── image_original.zip
+│       │   ├── informationssystem.jpg
+│       │   ├── in_liegen.jpg
+│       │   ├── inside
+│       │   ├── inside1.jpg
+│       │   ├── inside2.jpg
+│       │   ├── inside3.jpg
+│       │   ├── inside_I4.jpg
+│       │   ├── inside_I9.jpg
+│       │   ├── inside.jpg
+│       │   ├── inside_matrix_4.jpg
+│       │   ├── inside_matrix.jpg
+│       │   ├── interpolation_examples.gif
+│       │   ├── intersect1.jpg
+│       │   ├── intersect_2.jpg
+│       │   ├── intersect2.jpg
+│       │   ├── intersect3.jpg
+│       │   ├── intersect.jpg
+│       │   ├── intersect_matrix_4.jpg
+│       │   ├── intersect_matrix.jpg
+│       │   ├── inversion.gif
+│       │   ├── isochron_karte.jpg
+│       │   ├── jermann1.gif
+│       │   ├── jermann2.gif
+│       │   ├── jump.jpg
+│       │   ├── kashBird.jpg
+│       │   ├── keyboardnumbers.gif
+│       │   ├── koenigszahl1.gif
+│       │   ├── koenigszahl2.gif
+│       │   ├── Kopie von covered_by_I9.jpg
+│       │   ├── Kopie von covered_by_matrix4.jpg
+│       │   ├── Kopie von covered_by_matrix.jpg
+│       │   ├── Kopie von covers1.jpg
+│       │   ├── kreis_1_2.jpg
+│       │   ├── KRIGING_Result_CH.gif
+│       │   ├── lag0nugget.gif
+│       │   ├── lags.gif
+│       │   ├── ldd_clarify.gif
+│       │   ├── lddnetLook.gif
+│       │   ├── legende.jpg
+│       │   ├── lenght.fla
+│       │   ├── lenght.swf
+│       │   ├── length.jpg
+│       │   ├── line_buffer.fla
+│       │   ├── line_buffer.jpg
+│       │   ├── line_buffer.swf
+│       │   ├── line.fla
+│       │   ├── line_in_poly.gif
+│       │   ├── line_in_poly_thumb.gif
+│       │   ├── line.jpg
+│       │   ├── line_point2.jpg
+│       │   ├── line_poly2.jpg
+│       │   ├── line_poly.jpg
+│       │   ├── line_raster.fla
+│       │   ├── line_raster.jpg
+│       │   ├── line_raster.swf
+│       │   ├── line.swf
+│       │   ├── lokale_interpolation.gif
+│       │   ├── london_tube.gif
+│       │   ├── LOS.gif
+│       │   ├── LOS_look.gif
+│       │   ├── losprofile.gif
+│       │   ├── manhattan_distanz.fla
+│       │   ├── manhattan_distanz.jpg
+│       │   ├── manhattan_distanz.swf
+│       │   ├── manhattan-metrik.gif
+│       │   ├── manhatten.jpg
+│       │   ├── Matrix2.png
+│       │   ├── matrix_meet_4.jpg
+│       │   ├── matrix_meet.jpg
+│       │   ├── Matrix.png
+│       │   ├── MatterhornFrost.jpg
+│       │   ├── MatterhornFrost_orig.jpg
+│       │   ├── maximumFlowPathLength.gif
+│       │   ├── meet1.jpg
+│       │   ├── meet2.jpg
+│       │   ├── meet3.jpg
+│       │   ├── meet4.jpg
+│       │   ├── meet5.jpg
+│       │   ├── meet_I4.jpg
+│       │   ├── meet_I9.jpg
+│       │   ├── meet.jpg
+│       │   ├── mexiko_tequisquialpan_bahnhof_josiah.jpg
+│       │   ├── MOE.gif
+│       │   ├── MOE_thumb.gif
+│       │   ├── monteCarloSchema.gif
+│       │   ├── neigung_aufsicht.png
+│       │   ├── nepal_annapuran_trek.jpg
+│       │   ├── nested.jpg
+│       │   ├── netzwerk_hierarchie.gif
+│       │   ├── nicht_exakte_interpolation.jpg
+│       │   ├── niesenUndBernerAlpenVonWesten.jpg
+│       │   ├── not.jpg
+│       │   ├── objektorientiert.gif
+│       │   ├── objektrelational.gif
+│       │   ├── obstaclesAndLandCover.gif
+│       │   ├── ordnung-horton.gif
+│       │   ├── ordnung-kantendistanz.gif
+│       │   ├── ordnung-shreve.gif
+│       │   ├── ordnung-strahler.gif
+│       │   ├── or.jpg
+│       │   ├── overlap1.jpg
+│       │   ├── overlap2.jpg
+│       │   ├── overlap3.jpg
+│       │   ├── overlap_I4.jpg
+│       │   ├── overlap_I9.jpg
+│       │   ├── overlap.jpg
+│       │   ├── overview2.jpg
+│       │   ├── parzelle2.jpg
+│       │   ├── parzelle3.jpg
+│       │   ├── parzelle4.jpg
+│       │   ├── parzelle5.jpg
+│       │   ├── parzelle.jpg
+│       │   ├── path_of_steepest_descent.jpg
+│       │   ├── path_of_steepest_descent_thumb.jpg
+│       │   ├── pauschalgefaelle.gif
+│       │   ├── pauschalgefaelle_thumb.gif
+│       │   ├── perimeter_raster.fla
+│       │   ├── perimeter_raster.jpg
+│       │   ├── perimeter_raster.swf
+│       │   ├── pit_clarify.gif
+│       │   ├── pit_distanz.fla
+│       │   ├── pit_distanz.jpg
+│       │   ├── pit_distanz.swf
+│       │   ├── pit_distanz_vector.fla
+│       │   ├── pit_distanz_vector.jpg
+│       │   ├── pit_distanz_vector.swf
+│       │   ├── PitsAndPeaks.gif
+│       │   ├── Planimetric_Area_Formula.gif
+│       │   ├── plankurvatur.gif
+│       │   ├── point_buffer.fla
+│       │   ├── point_buffer.jpg
+│       │   ├── point_buffer.swf
+│       │   ├── point.fla
+│       │   ├── point_in_poly.gif
+│       │   ├── point_in_poly_thumb.gif
+│       │   ├── point.jpg
+│       │   ├── point_poly2.jpg
+│       │   ├── point_poly.jpg
+│       │   ├── point_raster.fla
+│       │   ├── point_raster.jpg
+│       │   ├── point_raster.swf
+│       │   ├── point.swf
+│       │   ├── point_trees.jpg
+│       │   ├── point_trees_tabg.jpg
+│       │   ├── point_trees_tabt.jpg
+│       │   ├── poly_buffer.fla
+│       │   ├── poly_buffer.jpg
+│       │   ├── poly_buffer.swf
+│       │   ├── poly.fla
+│       │   ├── poly.jpg
+│       │   ├── poly_on_poly.gif
+│       │   ├── poly_on_poly_thumb.gif
+│       │   ├── poly_poly.jpg
+│       │   ├── poly.swf
+│       │   ├── profileFootpath.gif
+│       │   ├── profile.gif
+│       │   ├── profile.jpg
+│       │   ├── profiles_clarify.gif
+│       │   ├── profilkurvatur.gif
+│       │   ├── profil.png
+│       │   ├── proximity2.fla
+│       │   ├── proximity2.jpg
+│       │   ├── proximity2.swf
+│       │   ├── proximity.fla
+│       │   ├── proximity.jpg
+│       │   ├── proximity.swf
+│       │   ├── pspbrwse.jbf
+│       │   ├── pspbrwse.jpg
+│       │   ├── querywizard.png
+│       │   ├── raster_area.fla
+│       │   ├── raster_area.jpg
+│       │   ├── raster_area.swf
+│       │   ├── Raster.gif
+│       │   ├── raster_location.fla
+│       │   ├── raster_location.jpg
+│       │   ├── raster_location.swf
+│       │   ├── Raster_thumb.gif
+│       │   ├── raumzeit-karte.jpg
+│       │   ├── ref_integ.gif
+│       │   ├── Reflectance_Formula.gif
+│       │   ├── relation.gif
+│       │   ├── relation.jpg
+│       │   ├── Rheinfall.jpg
+│       │   ├── river_buff.jpg
+│       │   ├── river_houses_100.jpg
+│       │   ├── river_houses_1.jpg
+│       │   ├── river_houses_fields.jpg
+│       │   ├── river_houses.jpg
+│       │   ├── river.jpg
+│       │   ├── sampling_4systematic.gif
+│       │   ├── sampling_clusters.gif
+│       │   ├── sampling_random.gif
+│       │   ├── sampling_stratified_random_authoritative.gif
+│       │   ├── sampling_stratified_random.gif
+│       │   ├── sampling_systematic_clusters.gif
+│       │   ├── sampling_uniform.gif
+│       │   ├── schneidet.jpg
+│       │   ├── schnittstelle.gif
+│       │   ├── schwerpunkt.jpg
+│       │   ├── Sediment_Formula.gif
+│       │   ├── sedimentTransportIndex.gif
+│       │   ├── semivarianz.gif
+│       │   ├── small_model.jpg
+│       │   ├── steinschlaglegende.gif
+│       │   ├── steinschlagresult.jpg
+│       │   ├── strasse_uebung_and.jpg
+│       │   ├── strasse_uebung_not.jpg
+│       │   ├── strasse_uebung_or.jpg
+│       │   ├── strasse_uebung_xor.jpg
+│       │   ├── StreamPower_Formula.gif
+│       │   ├── streamPowerIndex.gif
+│       │   ├── tab1_1.jpg
+│       │   ├── tab1_2.jpg
+│       │   ├── tab1_3.jpg
+│       │   ├── tab1_4.jpg
+│       │   ├── tab_1.jpg
+│       │   ├── tab1.jpg
+│       │   ├── tab2_1.jpg
+│       │   ├── tab2_2.jpg
+│       │   ├── tab_2.jpg
+│       │   ├── tab2.jpg
+│       │   ├── tab3_1.jpg
+│       │   ├── tab3_2.jpg
+│       │   ├── tab3_3.jpg
+│       │   ├── tab_3.jpg
+│       │   ├── tab3.jpg
+│       │   ├── tab4_1.jpg
+│       │   ├── tab4_2.jpg
+│       │   ├── tab4_3.jpg
+│       │   ├── tab4_4.jpg
+│       │   ├── tab_4_5_6_2_7_1.jpg
+│       │   ├── tab4_5.jpg
+│       │   ├── tab_4.jpg
+│       │   ├── tab4.jpg
+│       │   ├── tab_5_6_2_7_1.jpg
+│       │   ├── tab5.jpg
+│       │   ├── tab6.jpg
+│       │   ├── tab_7.jpg
+│       │   ├── tab7.jpg
+│       │   ├── tab8.jpg
+│       │   ├── tab_act1.jpg
+│       │   ├── tab_act2.jpg
+│       │   ├── tab_act3.jpg
+│       │   ├── tab_act4.jpg
+│       │   ├── tab_besitzer.jpg
+│       │   ├── tabella_geom2.jpg
+│       │   ├── tabella_geom.jpg
+│       │   ├── tabella_them2.jpg
+│       │   ├── tabella_them.jpg
+│       │   ├── tabella_topo.jpg
+│       │   ├── tabelle.jpg
+│       │   ├── tab_parzelle2.jpg
+│       │   ├── tab_parzelle3.jpg
+│       │   ├── tab_parzelle.jpg
+│       │   ├── tab_preis.jpg
+│       │   ├── terrainmatters.jpg
+│       │   ├── terrainmatters_th.jpg
+│       │   ├── thiessen-polgone.gif
+│       │   ├── thiessen-polygone2.gif
+│       │   ├── thiessen-polygone3.gif
+│       │   ├── thiessen-polygone4.gif
+│       │   ├── thiessen-punkte.gif
+│       │   ├── TIN2.png
+│       │   ├── TIN3D.png
+│       │   ├── tingeschnitten.gif
+│       │   ├── tingeschnittennum.gif
+│       │   ├── TIN.png
+│       │   ├── TINSurface_Formula.gif
+│       │   ├── TIN-total-volume.gif
+│       │   ├── TIN_uebung.png
+│       │   ├── topo_geom_tabg2.jpg
+│       │   ├── topo_geom_tabg.jpg
+│       │   ├── topo_geom_tabt.jpg
+│       │   ├── topo_geom_tabto.jpg
+│       │   ├── topo_geom_them.jpg
+│       │   ├── upstreamElements.gif
+│       │   ├── Upstream_Formula.gif
+│       │   ├── vbz_netz.gif
+│       │   ├── Vector.gif
+│       │   ├── vector_location.fla
+│       │   ├── vector_location.jpg
+│       │   ├── vector_location.swf
+│       │   ├── Vector_thumb.gif
+│       │   ├── vertical_arrow.jpg
+│       │   ├── viewshed.gif
+│       │   ├── voll_enhaelt.jpg
+│       │   ├── Volume_Formula.gif
+│       │   ├── voronoi_test.jpg
+│       │   ├── wahr_falsch.jpg
+│       │   ├── wald_adjacency.jpg
+│       │   ├── wald_feld_houses.jpg
+│       │   ├── wald_feld.jpg
+│       │   ├── WC_Abb_1.jpg
+│       │   ├── WC_Abb_1_solution.jpg
+│       │   ├── WC_Abb_2.jpg
+│       │   ├── WC_Abb_2_solution.jpg
+│       │   ├── WC_Abb_3.jpg
+│       │   ├── WC_Abb_3_solution.jpg
+│       │   ├── Wetness_Formula.gif
+│       │   ├── wetnessIndex.gif
+│       │   ├── wo.fla
+│       │   ├── wo.jpg
+│       │   ├── wo.swf
+│       │   ├── xor.jpg
+│       │   ├── zenith-angle-and-azimuth-an.gif
+│       │   ├── zenith_angle_formula.gif
+│       │   ├── zenithAngle.gif
+│       │   └── zernezRonaldSchmidt.jpg
+│       ├── index.html
+│       ├── multimedia
+│       │   ├── BooleanOverlay.fla
+│       │   ├── BooleanOverlaySelfAssess.fla
+│       │   ├── BooleanOverlaySelfAssess.swf
+│       │   ├── BooleanOverlay.swf
+│       │   ├── Bool_VENN.fla
+│       │   ├── Bool_VENN.swf
+│       │   ├── ComputeWeight.fla
+│       │   ├── ComputeWeight.swf
+│       │   ├── Computing_Drain_ACT.fla
+│       │   ├── Computing_Drain_ACT.swf
+│       │   ├── Computing_Slope_ACT.fla
+│       │   ├── Computing_Slope_ACT.swf
+│       │   ├── Concentration_of_chemicals_in_underground.fla
+│       │   ├── Concentration_of_chemicals_in_underground.swf
+│       │   ├── Concentration_of_chemicals_in_underground_thumb.gif
+│       │   ├── Concentration_of_chemicals_in_water.fla
+│       │   ├── Concentration_of_chemicals_in_water.swf
+│       │   ├── Concentration_of_chemicals_in_water_thumb.gif
+│       │   ├── CVS
+│       │   │   ├── Entries
+│       │   │   ├── Repository
+│       │   │   └── Root
+│       │   ├── distpuff_erstellen.fla
+│       │   ├── distpuff_erstellen.swf
+│       │   ├── distpuff_overlay.fla
+│       │   ├── distpuff_overlay.swf
+│       │   ├── disttrans_reclassify.fla
+│       │   ├── disttrans_reclassify.swf
+│       │   ├── disttrans_zone.fla
+│       │   ├── disttrans_zone.swf
+│       │   ├── erreichbarkeit.fla
+│       │   ├── erreichbarkeit.swf
+│       │   ├── gelaende_wahl.fla
+│       │   ├── gelaende_wahl.swf
+│       │   ├── Hydrolo_Choice_SELFASS.fla
+│       │   ├── Hydrolo_Choice_SELFASS.swf
+│       │   ├── IDW_CH_Precip.fla
+│       │   ├── IDW_CH_Precip.swf
+│       │   ├── IDW_Interactive.fla
+│       │   ├── IDW_Interactive.swf
+│       │   ├── moving_window_ch.fla
+│       │   ├── moving_window_ch.swf
+│       │   ├── moving_window.fla
+│       │   ├── moving_window.swf
+│       │   ├── random_function.fla
+│       │   ├── random_function.swf
+│       │   ├── saatyAHP.fla
+│       │   ├── saatyAHP.swf
+│       │   ├── Sampling_Patterns_ch_example.fla
+│       │   ├── Sampling_Patterns_ch_example.swf
+│       │   ├── semivarianz_calculator.fla
+│       │   ├── semivarianz_calculator.swf
+│       │   ├── semivariogram.fla
+│       │   ├── semivariogram.swf
+│       │   ├── tabelle.fla
+│       │   ├── tabelle.swf
+│       │   ├── TestWeight.fla
+│       │   ├── TestWeight_Original_shaegi.fla
+│       │   ├── TestWeight_Original_shaegi.swf
+│       │   ├── TestWeight.swf
+│       │   ├── thiessen_polygone.fla
+│       │   ├── thiessen_polygone.swf
+│       │   ├── tuerler_punkt_karte.fla
+│       │   ├── tuerler_punkt_karte.swf
+│       │   ├── variogram_selfass.fla
+│       │   ├── variogram_selfass.swf
+│       │   ├── variogram_selfass_thumb.gif
+│       │   ├── VectorBooleanOverlay.fla
+│       │   ├── VectorBooleanOverlaySelfA.fla
+│       │   ├── VectorBooleanOverlaySelfA.swf
+│       │   ├── VectorBooleanOverlay.swf
+│       │   ├── WeightByClassification.fla
+│       │   ├── WeightByClassification.swf
+│       │   ├── WeightByRanklist.fla
+│       │   └── WeightByRanklist.swf
+│       └── text
+│           ├── GISBScL3.xml
+│           └── GISBScL3.xmltttt
+├── GISBScL4
+│   └── de
+│       ├── html
+│       │   ├── adlcp_rootv1p2.xsd
+│       │   ├── GISBScL4_bibliography.html
+│       │   ├── GISBScL4_glossary.html
+│       │   ├── GISBScL4_metadata.html
+│       │   ├── GISBScL4_selfAssessment1.html
+│       │   ├── GISBSc_UE4a_summary.html
+│       │   ├── GISBSc_UE4a_U_lo1.html
+│       │   ├── GISBSc_UE4a_U_lo2.html
+│       │   ├── GISBSc_UE4a_U_lo4.html
+│       │   ├── GISBSc_VL4_M_lo2.html
+│       │   ├── GISBSc_VL4_selfAssessment6.html
+│       │   ├── GISBSc_VL4_V_lo1.html
+│       │   ├── GISBSc_VL4_V_lo3.html
+│       │   ├── GISBSc_VL4_V_lo4.html
+│       │   ├── GISBSc_VL4_V_lo5.html
+│       │   ├── imscp_rootv1p1p2.xsd
+│       │   ├── imsmd_rootv1p2p1.xsd
+│       │   ├── ims_xml.xsd
+│       │   ├── index.html
+│       │   ├── scorm_generic.js
+│       │   ├── stylesheet.css
+│       │   ├── unit_GISBSc_UE4a.html
+│       │   ├── unit_GISBSc_VL4.html
+│       │   └── wz_tooltip.js
+│       ├── image
+│       │   ├── 01_Var_Cloud.gif
+│       │   ├── 02_Var_experimentell.gif
+│       │   ├── 03_Var_theoretisch.gif
+│       │   ├── beta-index-bsp.gif
+│       │   ├── beta-index.gif
+│       │   ├── chile_altiplano_putre_lluta_strasse_5289.jpg
+│       │   ├── CH_Precip_Example_for_Intro.jpg
+│       │   ├── diameter1.gif
+│       │   ├── diameter2.gif
+│       │   ├── distanz-kontext1.gif
+│       │   ├── distanz-kontext2.gif
+│       │   ├── distanz-linie-linie.gif
+│       │   ├── distanz-punkt-linie.gif
+│       │   ├── distanz-punkt-polygon.gif
+│       │   ├── distanz-punkt-punkt.gif
+│       │   ├── distpuff_linie.gif
+│       │   ├── distpuff_polygone.gif
+│       │   ├── distpuff_punkte.gif
+│       │   ├── erreichbarkeit.gif
+│       │   ├── euklidische-metrik.gif
+│       │   ├── exakte_interpolation.jpg
+│       │   ├── Example_kriging.gif
+│       │   ├── formula1.gif
+│       │   ├── formula2.gif
+│       │   ├── formula3.gif
+│       │   ├── formula4.gif
+│       │   ├── formula5.gif
+│       │   ├── formula6.gif
+│       │   ├── formula7.gif
+│       │   ├── formula8.gif
+│       │   ├── globale_interpolation.gif
+│       │   ├── graph1A.gif
+│       │   ├── graph1B.gif
+│       │   ├── graph1C.gif
+│       │   ├── graph1D.gif
+│       │   ├── graph1E.gif
+│       │   ├── graph1F.gif
+│       │   ├── graph1G.gif
+│       │   ├── graph1H.gif
+│       │   ├── graph1I.gif
+│       │   ├── graph1J.gif
+│       │   ├── graph1K.gif
+│       │   ├── graph_mtrx1.gif
+│       │   ├── graph_mtrx2.gif
+│       │   ├── graph_topo.gif
+│       │   ├── IDW_BullEyes.gif
+│       │   ├── IDW_Formula_default.gif
+│       │   ├── IDW_Formula.gif
+│       │   ├── idw.jpg
+│       │   ├── IDW_Result_CH.gif
+│       │   ├── IDW_Shepard.gif
+│       │   ├── image_original.zip
+│       │   ├── interpolation_examples.gif
+│       │   ├── isochron_karte.jpg
+│       │   ├── jermann1.gif
+│       │   ├── jermann2.gif
+│       │   ├── koenigszahl1.gif
+│       │   ├── koenigszahl2.gif
+│       │   ├── KRIGING_Result_CH.gif
+│       │   ├── lag0nugget.gif
+│       │   ├── lags.gif
+│       │   ├── line_in_poly.gif
+│       │   ├── line_in_poly_thumb.gif
+│       │   ├── lokale_interpolation.gif
+│       │   ├── london_tube.gif
+│       │   ├── manhattan-metrik.gif
+│       │   ├── manhatten.jpg
+│       │   ├── mexiko_tequisquialpan_bahnhof_josiah.jpg
+│       │   ├── MOE.gif
+│       │   ├── MOE_thumb.gif
+│       │   ├── nepal_annapuran_trek.jpg
+│       │   ├── nicht_exakte_interpolation.jpg
+│       │   ├── ordnung-horton.gif
+│       │   ├── ordnung-kantendistanz.gif
+│       │   ├── ordnung-shreve.gif
+│       │   ├── ordnung-strahler.gif
+│       │   ├── point_in_poly.gif
+│       │   ├── point_in_poly_thumb.gif
+│       │   ├── poly_on_poly.gif
+│       │   ├── poly_on_poly_thumb.gif
+│       │   ├── Raster.gif
+│       │   ├── Raster_thumb.gif
+│       │   ├── raumzeit-karte.jpg
+│       │   ├── sampling_4systematic.gif
+│       │   ├── sampling_clusters.gif
+│       │   ├── sampling_random.gif
+│       │   ├── sampling_stratified_random_authoritative.gif
+│       │   ├── sampling_stratified_random.gif
+│       │   ├── sampling_systematic_clusters.gif
+│       │   ├── sampling_uniform.gif
+│       │   ├── semivarianz.gif
+│       │   ├── thiessen-polgone.gif
+│       │   ├── thiessen-polygone2.gif
+│       │   ├── thiessen-polygone3.gif
+│       │   ├── thiessen-polygone4.gif
+│       │   ├── thiessen-punkte.gif
+│       │   ├── vbz_netz.gif
+│       │   ├── Vector.gif
+│       │   ├── Vector_thumb.gif
+│       │   └── voronoi_test.jpg
+│       ├── index.html
+│       ├── material
+│       │   ├── All_about_Shapefiles.pdf
+│       │   ├── Datensatz3.zip
+│       │   ├── facts1995_wolf.pdf
+│       │   ├── facts2001_wolf.pdf
+│       │   ├── Kurzinfo_Shapefiles.pdf
+│       │   ├── Weight.xls
+│       │   └── wolf_kora.pdf
+│       ├── multimedia
+│       │   ├── aufbau_informationssystem.fla
+│       │   ├── aufbau_informationssystem.swf
+│       │   ├── BooleanOverlay.fla
+│       │   ├── BooleanOverlaySelfAssess.fla
+│       │   ├── BooleanOverlaySelfAssess.swf
+│       │   ├── BooleanOverlay.swf
+│       │   ├── Bool_VENN.fla
+│       │   ├── Bool_VENN.swf
+│       │   ├── ComputeWeight.fla
+│       │   ├── ComputeWeight.swf
+│       │   ├── Computing_Drain_ACT.fla
+│       │   ├── Computing_Drain_ACT.swf
+│       │   ├── Computing_Slope_ACT.fla
+│       │   ├── Computing_Slope_ACT.swf
+│       │   ├── Concentration_of_chemicals_in_underground.fla
+│       │   ├── Concentration_of_chemicals_in_underground.swf
+│       │   ├── Concentration_of_chemicals_in_underground_thumb.gif
+│       │   ├── Concentration_of_chemicals_in_water.fla
+│       │   ├── Concentration_of_chemicals_in_water.swf
+│       │   ├── Concentration_of_chemicals_in_water_thumb.gif
+│       │   ├── dateibasiert_neu.fla
+│       │   ├── dateibasiert_neu.swf
+│       │   ├── distpuff_erstellen.fla
+│       │   ├── distpuff_erstellen.swf
+│       │   ├── distpuff_overlay.fla
+│       │   ├── distpuff_overlay.swf
+│       │   ├── disttrans_reclassify.fla
+│       │   ├── disttrans_reclassify.swf
+│       │   ├── disttrans_zone.fla
+│       │   ├── disttrans_zone.swf
+│       │   ├── drag_drop_architektur_mod.fla
+│       │   ├── drag_drop_architektur_mod.swf
+│       │   ├── dragDrop_test_informationssystemaufbau.fla
+│       │   ├── dragDrop_test_informationssystemaufbau.swf
+│       │   ├── erreichbarkeit.fla
+│       │   ├── erreichbarkeit.swf
+│       │   ├── Hydrolo_Choice_SELFASS.fla
+│       │   ├── Hydrolo_Choice_SELFASS.swf
+│       │   ├── IDW_CH_Precip.fla
+│       │   ├── IDW_CH_Precip.swf
+│       │   ├── IDW_Interactive.fla
+│       │   ├── IDW_Interactive.swf
+│       │   ├── moving_window_ch.fla
+│       │   ├── moving_window_ch.swf
+│       │   ├── moving_window.fla
+│       │   ├── moving_window.swf
+│       │   ├── nachteile.fla
+│       │   ├── nachteile.swf
+│       │   ├── random_function.fla
+│       │   ├── random_function.swf
+│       │   ├── saatyAHP.fla
+│       │   ├── saatyAHP.swf
+│       │   ├── Sampling_Patterns_ch_example.fla
+│       │   ├── Sampling_Patterns_ch_example.swf
+│       │   ├── semivarianz_calculator.fla
+│       │   ├── semivarianz_calculator.swf
+│       │   ├── semivariogram.fla
+│       │   ├── semivariogram.swf
+│       │   ├── sichten.fla
+│       │   ├── sichten.swf
+│       │   ├── SQL-SelfAss2.fla
+│       │   ├── SQL-SelfAss2.html
+│       │   ├── SQL-SelfAss2.mdb
+│       │   ├── SQL-SelfAss2.swf
+│       │   ├── SQL-SelfAss2Tut.mdb
+│       │   ├── tabellenkalkulationVsDbms.fla
+│       │   ├── tabellenkalkulationVsDbms.swf
+│       │   ├── TestWeight.fla
+│       │   ├── TestWeight_Original_shaegi.fla
+│       │   ├── TestWeight_Original_shaegi.swf
+│       │   ├── TestWeight.swf
+│       │   ├── thiessen_polygone.fla
+│       │   ├── thiessen_polygone.swf
+│       │   ├── transaktion_konten.fla
+│       │   ├── transaktion_konten.swf
+│       │   ├── variogram_selfass.fla
+│       │   ├── variogram_selfass.swf
+│       │   ├── variogram_selfass_thumb.gif
+│       │   ├── VectorBooleanOverlay.fla
+│       │   ├── VectorBooleanOverlaySelfA.fla
+│       │   ├── VectorBooleanOverlaySelfA.swf
+│       │   ├── VectorBooleanOverlay.swf
+│       │   ├── vorteile.fla
+│       │   ├── vorteile.swf
+│       │   ├── WeightByClassification.fla
+│       │   ├── WeightByClassification.swf
+│       │   ├── WeightByRanklist.fla
+│       │   ├── WeightByRanklist.swf
+│       │   ├── wortzuordnung_einfach.fla
+│       │   └── wortzuordnung_einfach.swf
+│       └── text
+│           ├── GISBScL4.xml
+│           └── GISBScL4.xmltttt
+├── GISBScL5
+│   └── de
+│       ├── html
+│       │   ├── adlcp_rootv1p2.xsd
+│       │   ├── GISBScL5_bibliography.html
+│       │   ├── GISBScL5_metadata.html
+│       │   ├── GISBSc_VL5_V_lo1.html
+│       │   ├── GISBSc_VL5_V_lo2.html
+│       │   ├── GISBSc_VL5_V_lo3.html
+│       │   ├── imscp_rootv1p1p2.xsd
+│       │   ├── imsmd_rootv1p2p1.xsd
+│       │   ├── ims_xml.xsd
+│       │   ├── index.html
+│       │   ├── scorm_generic.js
+│       │   └── unit_GISBSc_VL5.html
+│       ├── image
+│       ├── index.html
+│       ├── material
+│       │   ├── BuT.pdf
+│       │   ├── GIS1_Arbeitsbericht_Teammitglied.pdf
+│       │   ├── GIS1_Besprechungsprotokoll_Projektarbeit.pdf
+│       │   ├── GIS1_Expose.odt
+│       │   ├── GIS1_Expose.pdf
+│       │   ├── GIS1_ProjektHAndbuch.pdf
+│       │   ├── PM_Rosner.pdf
+│       │   ├── PP_PDF.zip
+│       │   └── Projektprotokolle.zip
+│       ├── multimedia
+│       └── text
+│           └── GISBScL5.xml
+├── gis-bsc.Rproj
+├── index.html
+├── LICENSE
+├── material
+│   └── Datensatz2.zip
+├── README.md
+├── templates
+│   ├── gisma
+│   │   ├── authoring
+│   │   │   ├── css
+│   │   │   │   ├── big.css
+│   │   │   │   ├── main.css
+│   │   │   │   ├── main.css.bak
+│   │   │   │   ├── mainohne.css
+│   │   │   │   ├── Neuer Ordner
+│   │   │   │   ├── print.css
+│   │   │   │   └── simple.css
+│   │   │   └── images
+│   │   │       ├── 1.gif
+│   │   │       ├── 999999.gif
+│   │   │       ├── arrow_down.gif
+│   │   │       ├── arrow_download.gif
+│   │   │       ├── arrow_left.gif
+│   │   │       ├── arrow_right_emergency.gif
+│   │   │       ├── arrow_right.gif
+│   │   │       ├── arrow_up.gif
+│   │   │       ├── arrow_upright.gif
+│   │   │       ├── colors.gif
+│   │   │       ├── default_head.gif
+│   │   │       ├── dot_line540.gif
+│   │   │       ├── dot_line66.gif
+│   │   │       ├── emofb19.jpg
+│   │   │       ├── geo_1.gif
+│   │   │       ├── geo2.gif
+│   │   │       ├── icon_bigfont.gif
+│   │   │       ├── icon_lupe.gif
+│   │   │       ├── icon_pda.gif
+│   │   │       ├── icon_print.gif
+│   │   │       ├── icons
+│   │   │       │   ├── asc.gif
+│   │   │       │   ├── ascii.gif
+│   │   │       │   ├── bin.gif
+│   │   │       │   ├── cfg.gif
+│   │   │       │   ├── default.gif
+│   │   │       │   ├── doc.gif
+│   │   │       │   ├── docm.gif
+│   │   │       │   ├── docx.gif
+│   │   │       │   ├── dot.gif
+│   │   │       │   ├── dotm.gif
+│   │   │       │   ├── dotx.gif
+│   │   │       │   ├── eps.gif
+│   │   │       │   ├── GIF.gif
+│   │   │       │   ├── hqx.gif
+│   │   │       │   ├── jbc.gif
+│   │   │       │   ├── jcl.gif
+│   │   │       │   ├── jmt.gif
+│   │   │       │   ├── jmx.gif
+│   │   │       │   ├── jpeg.gif
+│   │   │       │   ├── JPG.gif
+│   │   │       │   ├── mov.gif
+│   │   │       │   ├── mp3.gif
+│   │   │       │   ├── mp4.gif
+│   │   │       │   ├── mpg.gif
+│   │   │       │   ├── pct.gif
+│   │   │       │   ├── pdf.gif
+│   │   │       │   ├── png.gif
+│   │   │       │   ├── pot.gif
+│   │   │       │   ├── potm.gif
+│   │   │       │   ├── potx.gif
+│   │   │       │   ├── ppam.gif
+│   │   │       │   ├── ppsm.gif
+│   │   │       │   ├── ppsx.gif
+│   │   │       │   ├── ppt.gif
+│   │   │       │   ├── pptm.gif
+│   │   │       │   ├── pptx.gif
+│   │   │       │   ├── qx.gif
+│   │   │       │   ├── rtf.gif
+│   │   │       │   ├── sea.gif
+│   │   │       │   ├── sit.gif
+│   │   │       │   ├── swa.gif
+│   │   │       │   ├── swf.gif
+│   │   │       │   ├── tif.gif
+│   │   │       │   ├── txt.gif
+│   │   │       │   ├── vcf.gif
+│   │   │       │   ├── xlam.gif
+│   │   │       │   ├── xlsb.gif
+│   │   │       │   ├── xls.gif
+│   │   │       │   ├── xlsm.gif
+│   │   │       │   ├── xlsx.gif
+│   │   │       │   ├── xlt.gif
+│   │   │       │   ├── xltm.gif
+│   │   │       │   ├── xltx.gif
+│   │   │       │   ├── xlw.gif
+│   │   │       │   └── zip.gif
+│   │   │       ├── key-visual.jpg
+│   │   │       ├── list_hyphen.gif
+│   │   │       ├── list_square.gif
+│   │   │       ├── logo_de.gif
+│   │   │       ├── logo.jpg
+│   │   │       ├── marker10.png
+│   │   │       ├── marker1.png
+│   │   │       ├── marker2.png
+│   │   │       ├── marker3.png
+│   │   │       ├── marker4.png
+│   │   │       ├── marker5.png
+│   │   │       ├── marker6.png
+│   │   │       ├── marker7.png
+│   │   │       ├── marker8.png
+│   │   │       ├── marker9.png
+│   │   │       ├── marker.png
+│   │   │       ├── podcast.gif
+│   │   │       ├── poweredby_FFFFFF.gif
+│   │   │       ├── pum.gif
+│   │   │       ├── pum_logo.gif
+│   │   │       ├── shadow50.png
+│   │   │       ├── tabs-active.jpg
+│   │   │       └── tabs-inactive.jpg
+│   │   ├── big.css
+│   │   ├── css
+│   │   │   ├── big.css
+│   │   │   ├── main.css
+│   │   │   ├── print.css
+│   │   │   └── simple.css
+│   │   ├── elml.css
+│   │   ├── elml.css.bak
+│   │   ├── elml.js
+│   │   ├── elml_print.css
+│   │   ├── icons
+│   │   │   ├── 1255614740_gnome-mime-text-x-credits.gif
+│   │   │   ├── 1.gif
+│   │   │   ├── annotation.png
+│   │   │   ├── creativecommons.png
+│   │   │   ├── folien2.gif
+│   │   │   ├── folien.gif
+│   │   │   ├── glossary.gif
+│   │   │   ├── help.gif
+│   │   │   ├── idee.gif
+│   │   │   ├── img_0289.gif
+│   │   │   ├── important.gif
+│   │   │   ├── logo.gif
+│   │   │   ├── navi.gif
+│   │   │   ├── PDF.gif
+│   │   │   ├── podfol.gif
+│   │   │   ├── question.gif
+│   │   │   ├── remark.gif
+│   │   │   ├── sitemap.gif
+│   │   │   ├── socialmedia.gif
+│   │   │   ├── socialmedia.jpg
+│   │   │   ├── term.gif
+│   │   │   ├── text.gif
+│   │   │   ├── tools.gif
+│   │   │   └── world.gif
+│   │   ├── images
+│   │   │   ├── 1.gif
+│   │   │   ├── 999999.gif
+│   │   │   ├── arrow_down.gif
+│   │   │   ├── arrow_download.gif
+│   │   │   ├── arrow_left.gif
+│   │   │   ├── arrow_right_emergency.gif
+│   │   │   ├── arrow_right.gif
+│   │   │   ├── arrow_up.gif
+│   │   │   ├── arrow_upright.gif
+│   │   │   ├── arrow_weiss.gif
+│   │   │   ├── colors.gif
+│   │   │   ├── default_head.gif
+│   │   │   ├── dot_line540.gif
+│   │   │   ├── dot_line66.gif
+│   │   │   ├── emofb19.jpg
+│   │   │   ├── geo_1.gif
+│   │   │   ├── geo2.gif
+│   │   │   ├── icon_bigfont.gif
+│   │   │   ├── icon_lupe.gif
+│   │   │   ├── icon_pda.gif
+│   │   │   ├── icon_print.gif
+│   │   │   ├── icons
+│   │   │   │   ├── 1255614740_gnome-mime-text-x-credits.gif
+│   │   │   │   ├── 1.gif
+│   │   │   │   ├── annotation.png
+│   │   │   │   ├── asc.gif
+│   │   │   │   ├── ascii.gif
+│   │   │   │   ├── bin.gif
+│   │   │   │   ├── cfg.gif
+│   │   │   │   ├── creativecommons.png
+│   │   │   │   ├── default.gif
+│   │   │   │   ├── doc.gif
+│   │   │   │   ├── docm.gif
+│   │   │   │   ├── docx.gif
+│   │   │   │   ├── dot.gif
+│   │   │   │   ├── dotm.gif
+│   │   │   │   ├── dotx.gif
+│   │   │   │   ├── eps.gif
+│   │   │   │   ├── folien2.gif
+│   │   │   │   ├── folien.gif
+│   │   │   │   ├── GIF.gif
+│   │   │   │   ├── glossary.gif
+│   │   │   │   ├── help.gif
+│   │   │   │   ├── hqx.gif
+│   │   │   │   ├── img_0289.gif
+│   │   │   │   ├── important.gif
+│   │   │   │   ├── jbc.gif
+│   │   │   │   ├── jcl.gif
+│   │   │   │   ├── jmt.gif
+│   │   │   │   ├── jmx.gif
+│   │   │   │   ├── jpeg.gif
+│   │   │   │   ├── JPG.gif
+│   │   │   │   ├── logo.gif
+│   │   │   │   ├── mov.gif
+│   │   │   │   ├── mp3.gif
+│   │   │   │   ├── mp4.gif
+│   │   │   │   ├── mpg.gif
+│   │   │   │   ├── navi.gif
+│   │   │   │   ├── pct.gif
+│   │   │   │   ├── pdf.gif
+│   │   │   │   ├── png.gif
+│   │   │   │   ├── podfol.gif
+│   │   │   │   ├── pot.gif
+│   │   │   │   ├── potm.gif
+│   │   │   │   ├── potx.gif
+│   │   │   │   ├── ppam.gif
+│   │   │   │   ├── ppsm.gif
+│   │   │   │   ├── ppsx.gif
+│   │   │   │   ├── ppt.gif
+│   │   │   │   ├── pptm.gif
+│   │   │   │   ├── pptx.gif
+│   │   │   │   ├── question.gif
+│   │   │   │   ├── qx.gif
+│   │   │   │   ├── remark.gif
+│   │   │   │   ├── rtf.gif
+│   │   │   │   ├── sea.gif
+│   │   │   │   ├── sitemap.gif
+│   │   │   │   ├── sit.gif
+│   │   │   │   ├── socialmedia.gif
+│   │   │   │   ├── socialmedia.jpg
+│   │   │   │   ├── swa.gif
+│   │   │   │   ├── swf.gif
+│   │   │   │   ├── term.gif
+│   │   │   │   ├── text.gif
+│   │   │   │   ├── tif.gif
+│   │   │   │   ├── txt.gif
+│   │   │   │   ├── vcf.gif
+│   │   │   │   ├── world.gif
+│   │   │   │   ├── xlam.gif
+│   │   │   │   ├── xlsb.gif
+│   │   │   │   ├── xls.gif
+│   │   │   │   ├── xlsm.gif
+│   │   │   │   ├── xlsx.gif
+│   │   │   │   ├── xlt.gif
+│   │   │   │   ├── xltm.gif
+│   │   │   │   ├── xltx.gif
+│   │   │   │   ├── xlw.gif
+│   │   │   │   └── zip.gif
+│   │   │   ├── key-visual.jpg
+│   │   │   ├── list_hyphen.gif
+│   │   │   ├── list_square.gif
+│   │   │   ├── logo_de.gif
+│   │   │   ├── logo.jpg
+│   │   │   ├── marker10.png
+│   │   │   ├── marker1.png
+│   │   │   ├── marker2.png
+│   │   │   ├── marker3.png
+│   │   │   ├── marker4.png
+│   │   │   ├── marker5.png
+│   │   │   ├── marker6.png
+│   │   │   ├── marker7.png
+│   │   │   ├── marker8.png
+│   │   │   ├── marker9.png
+│   │   │   ├── marker.png
+│   │   │   ├── podcast.gif
+│   │   │   ├── poweredby_FFFFFF.gif
+│   │   │   ├── pum.gif
+│   │   │   ├── pum_logo2_black.png
+│   │   │   ├── pum_logo_2.png
+│   │   │   ├── pum_logo2.png
+│   │   │   ├── pum_logo2_.png
+│   │   │   ├── pum_logo_fav2.png
+│   │   │   ├── pum_logo.gif
+│   │   │   ├── shadow50.png
+│   │   │   ├── tabs-active.jpg
+│   │   │   ├── tabs-inactive.jpg
+│   │   │   └── think_gisma_logo.png
+│   │   ├── lightwindow
+│   │   │   ├── css
+│   │   │   │   ├── default.css
+│   │   │   │   └── lightwindow.css
+│   │   │   ├── images
+│   │   │   │   ├── ajax-loading.gif
+│   │   │   │   ├── arrow-down.gif
+│   │   │   │   ├── arrow-up.gif
+│   │   │   │   ├── black-70.png
+│   │   │   │   ├── black.png
+│   │   │   │   ├── blank.gif
+│   │   │   │   ├── nextlabel.gif
+│   │   │   │   ├── pattern_148-70.png
+│   │   │   │   ├── pattern_148.gif
+│   │   │   │   └── prevlabel.gif
+│   │   │   └── javascript
+│   │   │       ├── effects.js
+│   │   │       ├── lightwindow.js
+│   │   │       ├── lightwindow_loader.js
+│   │   │       ├── prototype.js
+│   │   │       └── scriptaculous.js
+│   │   ├── main.css
+│   │   ├── main.css.bak
+│   │   ├── material
+│   │   │   ├── 1970_-_tobler_-_a_computer_movie_simulating_urban_growth_in_the_detroit_region1.pdf
+│   │   │   ├── AGIT_09_Beitrag_Kanwischer_Reudenbach_Schulze.pdf
+│   │   │   ├── All_about_Shapefiles.pdf
+│   │   │   ├── bukowsko.kml
+│   │   │   ├── BuT.pdf
+│   │   │   ├── Datensatz1.zip
+│   │   │   ├── Datensatz2.zip
+│   │   │   ├── Datensatz3.zip
+│   │   │   ├── facts1995_wolf.pdf
+│   │   │   ├── facts2001_wolf.pdf
+│   │   │   ├── GIS1_Besprechungsprotokoll_Projektarbeit.pdf
+│   │   │   ├── GIS1_Expose.odt
+│   │   │   ├── GIS1_Expose.pdf
+│   │   │   ├── GIS1_ProjektHAndbuch.pdf
+│   │   │   ├── HSW6_2010_Schulze_Kanwischer_Reudenbach.pdf
+│   │   │   ├── koordinatentransformationenwuppertal.pdf
+│   │   │   ├── Kurzinfo_Shapefiles.pdf
+│   │   │   ├── PM_Rosner.pdf
+│   │   │   ├── PostPanneSoltau.kmz
+│   │   │   ├── Projektprotokolle.zip
+│   │   │   ├── RasteroderVektormodell3D.kmz
+│   │   │   ├── vermessungskundeskript_tuberlin.pdf
+│   │   │   ├── Weight.xls
+│   │   │   └── wolf_kora.pdf
+│   │   ├── navigation
+│   │   │   ├── dreieck_act.gif
+│   │   │   ├── dreieck.gif
+│   │   │   ├── einrueckdreieck_act.gif
+│   │   │   ├── einrueckdreieck.gif
+│   │   │   ├── einrueckdreieckone_act.gif
+│   │   │   ├── einrueckdreieckone.gif
+│   │   │   ├── einrueckonedreieck_act.gif
+│   │   │   ├── einrueckonedreieck.gif
+│   │   │   ├── einrueckoneviereck_act.gif
+│   │   │   ├── einrueckoneviereck.gif
+│   │   │   ├── einrueckviereck_act.gif
+│   │   │   ├── einrueckviereck.gif
+│   │   │   ├── einrueckviereckone_act.gif
+│   │   │   ├── einrueckviereckone.gif
+│   │   │   ├── line_first.gif
+│   │   │   ├── line_second.gif
+│   │   │   ├── line_space_les.gif
+│   │   │   ├── line_space_mod.gif
+│   │   │   ├── line_space_uni.gif
+│   │   │   ├── line_space_zles.gif
+│   │   │   ├── line_space_zuni.gif
+│   │   │   ├── line_space_zunilast.gif
+│   │   │   ├── line_third.gif
+│   │   │   ├── punkt_act.gif
+│   │   │   ├── punkt.gif
+│   │   │   ├── viereck_act.gif
+│   │   │   ├── viereck.gif
+│   │   │   ├── zurueckdreieck_act.gif
+│   │   │   ├── zurueckdreieck.gif
+│   │   │   ├── zurueckviereck_act.gif
+│   │   │   └── zurueckviereck.gif
+│   │   ├── online.xsl
+│   │   ├── online.xsl.bak
+│   │   ├── print.css
+│   │   ├── simple.css
+│   │   └── think_gisma_logo.png
+│   ├── plain
+│   │   ├── elml.css
+│   │   ├── elml.js
+│   │   ├── elml_print.css
+│   │   ├── icons
+│   │   │   └── term.gif
+│   │   └── online.xsl
+│   └── Vista
+│       ├── authoring
+│       │   ├── css
+│       │   │   ├── big.css
+│       │   │   ├── main.css
+│       │   │   ├── main.css.bak
+│       │   │   ├── Neuer Ordner
+│       │   │   ├── print.css
+│       │   │   └── simple.css
+│       │   └── images
+│       │       ├── 1.gif
+│       │       ├── 999999.gif
+│       │       ├── arrow_down.gif
+│       │       ├── arrow_download.gif
+│       │       ├── arrow_left.gif
+│       │       ├── arrow_right_emergency.gif
+│       │       ├── arrow_right.gif
+│       │       ├── arrow_up.gif
+│       │       ├── arrow_upright.gif
+│       │       ├── colors.gif
+│       │       ├── default_head.gif
+│       │       ├── dot_line540.gif
+│       │       ├── dot_line66.gif
+│       │       ├── emofb19.jpg
+│       │       ├── geo_1.gif
+│       │       ├── geo2.gif
+│       │       ├── icon_bigfont.gif
+│       │       ├── icon_lupe.gif
+│       │       ├── icon_pda.gif
+│       │       ├── icon_print.gif
+│       │       ├── icons
+│       │       │   ├── asc.gif
+│       │       │   ├── ascii.gif
+│       │       │   ├── bin.gif
+│       │       │   ├── cfg.gif
+│       │       │   ├── default.gif
+│       │       │   ├── doc.gif
+│       │       │   ├── docm.gif
+│       │       │   ├── docx.gif
+│       │       │   ├── dot.gif
+│       │       │   ├── dotm.gif
+│       │       │   ├── dotx.gif
+│       │       │   ├── eps.gif
+│       │       │   ├── GIF.gif
+│       │       │   ├── hqx.gif
+│       │       │   ├── jbc.gif
+│       │       │   ├── jcl.gif
+│       │       │   ├── jmt.gif
+│       │       │   ├── jmx.gif
+│       │       │   ├── jpeg.gif
+│       │       │   ├── JPG.gif
+│       │       │   ├── mov.gif
+│       │       │   ├── mp3.gif
+│       │       │   ├── mp4.gif
+│       │       │   ├── mpg.gif
+│       │       │   ├── pct.gif
+│       │       │   ├── pdf.gif
+│       │       │   ├── png.gif
+│       │       │   ├── pot.gif
+│       │       │   ├── potm.gif
+│       │       │   ├── potx.gif
+│       │       │   ├── ppam.gif
+│       │       │   ├── ppsm.gif
+│       │       │   ├── ppsx.gif
+│       │       │   ├── ppt.gif
+│       │       │   ├── pptm.gif
+│       │       │   ├── pptx.gif
+│       │       │   ├── qx.gif
+│       │       │   ├── rtf.gif
+│       │       │   ├── sea.gif
+│       │       │   ├── sit.gif
+│       │       │   ├── swa.gif
+│       │       │   ├── swf.gif
+│       │       │   ├── tif.gif
+│       │       │   ├── txt.gif
+│       │       │   ├── vcf.gif
+│       │       │   ├── xlam.gif
+│       │       │   ├── xlsb.gif
+│       │       │   ├── xls.gif
+│       │       │   ├── xlsm.gif
+│       │       │   ├── xlsx.gif
+│       │       │   ├── xlt.gif
+│       │       │   ├── xltm.gif
+│       │       │   ├── xltx.gif
+│       │       │   ├── xlw.gif
+│       │       │   └── zip.gif
+│       │       ├── key-visual.jpg
+│       │       ├── list_hyphen.gif
+│       │       ├── list_square.gif
+│       │       ├── logo_de.gif
+│       │       ├── logo.jpg
+│       │       ├── marker10.png
+│       │       ├── marker1.png
+│       │       ├── marker2.png
+│       │       ├── marker3.png
+│       │       ├── marker4.png
+│       │       ├── marker5.png
+│       │       ├── marker6.png
+│       │       ├── marker7.png
+│       │       ├── marker8.png
+│       │       ├── marker9.png
+│       │       ├── marker.png
+│       │       ├── podcast.gif
+│       │       ├── poweredby_FFFFFF.gif
+│       │       ├── pum.gif
+│       │       ├── pum_logo.gif
+│       │       ├── shadow50.png
+│       │       ├── tabs-active.jpg
+│       │       └── tabs-inactive.jpg
+│       ├── elml.css
+│       ├── elml.js
+│       ├── elml_print.css
+│       ├── images
+│       │   └── think_spatial_logo.jpg
+│       ├── lightwindow
+│       │   ├── css
+│       │   │   ├── default.css
+│       │   │   └── lightwindow.css
+│       │   ├── images
+│       │   │   ├── ajax-loading.gif
+│       │   │   ├── arrow-down.gif
+│       │   │   ├── arrow-up.gif
+│       │   │   ├── black-70.png
+│       │   │   ├── black.png
+│       │   │   ├── blank.gif
+│       │   │   ├── nextlabel.gif
+│       │   │   ├── pattern_148-70.png
+│       │   │   ├── pattern_148.gif
+│       │   │   └── prevlabel.gif
+│       │   └── javascript
+│       │       ├── effects.js
+│       │       ├── lightwindow.js
+│       │       ├── lightwindow_loader.js
+│       │       ├── prototype.js
+│       │       └── scriptaculous.js
+│       ├── main.css
+│       ├── online.xsl
+│       ├── online.xsl.bak
+│       └── Vista.xml
+├── test
+│   ├── apacheasp
+│   │   ├── test.asp
+│   │   └── test.html
+│   ├── cgi
+│   │   └── test.html
+│   ├── coldfusion
+│   │   ├── test.cfm
+│   │   └── test.html
+│   ├── fcgi
+│   │   ├── fcgi.py
+│   │   ├── fcgi.pyc
+│   │   ├── test.fcgi
+│   │   └── test.html
+│   ├── miva
+│   │   ├── test.html
+│   │   └── test.mvc
+│   ├── perl
+│   │   ├── test.html
+│   │   └── test.pl
+│   ├── php
+│   │   ├── test.html
+│   │   └── test.php
+│   ├── python
+│   │   ├── test.html
+│   │   └── test.py
+│   └── ssi
+│       ├── test.html
+│       └── test.shtml
+└── t.txt
+
+186 directories, 3671 files
